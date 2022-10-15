@@ -22,10 +22,26 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Бросить якорь!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221014T180554Z" creationid="Admin" creationdate="20221014T180554Z">
+        <seg>Скинути якір!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Война с орками давалась дорогой ценой, ведь враг действовал быстро и беспощадно.</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221014T174505Z" creationid="Admin" creationdate="20221014T174446Z">
         <seg>Війна з орками давалася дорогою ціною, адже ворог діяв швидко і нещадно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Вот так я здесь и оказался.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221014T180538Z" creationid="Admin" creationdate="20221014T180538Z">
+        <seg>Ось так я тут і опинився.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Похоже, мы на месте.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221014T180600Z" creationid="Admin" creationdate="20221014T180600Z">
+        <seg>Схоже, ми на місці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Преступников ссылали на добычу руды в тюрьме под открытым небом, известной как Долина Рудников.</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221014T175749Z" creationid="Admin" creationdate="20221014T175749Z">
@@ -94,10 +118,146 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Расслабься, всё будет в порядке.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221014T180609Z" creationid="Admin" creationdate="20221014T180609Z">
+        <seg>Розслабся, все буде добре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: грибная котлета</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221015T153636Z" creationid="Admin" creationdate="20221015T153636Z">
+        <seg>Рецепт: Грибна котлета</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: грибная требуха</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221015T153723Z" creationid="Admin" creationdate="20221015T153723Z">
+        <seg>Рецепт: Грибний суп</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: жареные насекомые</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221015T153622Z" creationid="Admin" creationdate="20221015T153622Z">
+        <seg>Рецепт: Смажені комахи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: жареные рыбьи шкурки</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221015T153605Z" creationid="Admin" creationdate="20221015T153605Z">
+        <seg>Рецепт: Смажена рибна луска</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: компот из сухофруктов</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221015T153646Z" creationid="Admin" creationdate="20221015T153646Z">
+        <seg>Рецепт: Компот із сухофруктівв</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: маринованная репа</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221015T153524Z" creationid="Admin" creationdate="20221015T153524Z">
+        <seg>Рецепт: Маринована ріпа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: медовое печенье</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221015T153547Z" creationid="Admin" creationdate="20221015T153547Z">
+        <seg>Рецепт: Медове печиво</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: острый суп с капустой</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221015T153629Z" creationid="Admin" creationdate="20221015T153629Z">
+        <seg>Рецепт: Гострий суп з капустою</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: пивной хлеб</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221015T153531Z" creationid="Admin" creationdate="20221015T153531Z">
+        <seg>Рецепт: Пивний хліб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: рыба в уксусе со снеппер-травой</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221015T153655Z" creationid="Admin" creationdate="20221015T153655Z">
+        <seg>Рецепт: Риба в оцті із снеппер-травоюй</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: сладкая черничная булочка</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221015T153713Z" creationid="Admin" creationdate="20221015T153713Z">
+        <seg>Рецепт: Солодка чорнична булочка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: суп из речного мирта</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221015T153732Z" creationid="Admin" creationdate="20221015T153732Z">
+        <seg>Рецепт: Суп з річкового мирту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: суп из царского щавеля</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221015T153704Z" creationid="Admin" creationdate="20221015T153704Z">
+        <seg>Рецепт: Суп із царського щавлю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: тыквенный компот</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221015T153539Z" creationid="Admin" creationdate="20221015T153539Z">
+        <seg>Рецепт: Гарбузовий компот</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: шашлык из падальщика с тыквой</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221015T153614Z" creationid="Admin" creationdate="20221015T153614Z">
+        <seg>Рецепт: Шашлик падальника з гарбузом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Решением этой проблемы должно было стать увеличение численности рудокопов на острове Хоринис.</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221014T174621Z" creationid="Admin" creationdate="20221014T174621Z">
         <seg>Вирішенням цієї проблеми повинно стати збільшення чисельності рудокопів на острові Хорініс.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Тем временем на маленьком острове Лондрам два брата готовятся бежать на Архолос.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221014T180430Z" creationid="Admin" creationdate="20221014T180430Z">
+        <seg>Тим часом, на маленькому острові Лондрам, двоє братів готуються бігти на Архолос.</seg>
       </tuv>
     </tu>
     <tu>

@@ -126,6 +126,230 @@
     </tu>
     <tu>
       <tuv xml:lang="ru-RU">
+        <seg>Рецепт: глинтвейн 'Огонёк'</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153914Z" creationid="Admin" creationdate="20221015T153914Z">
+        <seg>Рецепт: Глінтвейн 'Вогник'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: грибная котлета</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153636Z" creationid="Admin" creationdate="20221015T153636Z">
+        <seg>Рецепт: Грибна котлета</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: грибная требуха</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153723Z" creationid="Admin" creationdate="20221015T153723Z">
+        <seg>Рецепт: Грибний суп</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: грибное рагу</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T154032Z" creationid="Admin" creationdate="20221015T154032Z">
+        <seg>Рецепт: Грибне рагу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: жареные насекомые</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153622Z" creationid="Admin" creationdate="20221015T153622Z">
+        <seg>Рецепт: Смажені комахи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: жареные рыбьи шкурки</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153605Z" creationid="Admin" creationdate="20221015T153605Z">
+        <seg>Рецепт: Смажена рибна луска</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: компот из сухофруктов</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153646Z" creationid="Admin" creationdate="20221015T153646Z">
+        <seg>Рецепт: Компот із сухофруктівв</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: котелок рыбака</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153958Z" creationid="Admin" creationdate="20221015T153958Z">
+        <seg>Рецепт: Казанок рибалки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: маринованная репа</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153524Z" creationid="Admin" creationdate="20221015T153524Z">
+        <seg>Рецепт: Маринована ріпа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: медовое печенье</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153547Z" creationid="Admin" creationdate="20221015T153547Z">
+        <seg>Рецепт: Медове печиво</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: мясная каша</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153840Z" creationid="Admin" creationdate="20221015T153840Z">
+        <seg>Рецепт: М'ясна каша</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: острый суп с капустой</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153629Z" creationid="Admin" creationdate="20221015T153629Z">
+        <seg>Рецепт: Гострий суп з капустою</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: пивной хлеб</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153531Z" creationid="Admin" creationdate="20221015T153531Z">
+        <seg>Рецепт: Пивний хліб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: рыба в уксусе со снеппер-травой</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153655Z" creationid="Admin" creationdate="20221015T153655Z">
+        <seg>Рецепт: Риба в оцті із снеппер-травоюй</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: рыбное филе с царским щавелем</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153940Z" creationid="Admin" creationdate="20221015T153940Z">
+        <seg>Рецепт: Рибне філе з царським щавлем</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: рыбные котлеты с огненной травой</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153928Z" creationid="Admin" creationdate="20221015T153928Z">
+        <seg>Рецепт: Рибні котлети з вогняною травою</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: сладкая черничная булочка</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153713Z" creationid="Admin" creationdate="20221015T153713Z">
+        <seg>Рецепт: Солодка чорнична булочка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: суп из речного мирта</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153732Z" creationid="Admin" creationdate="20221015T153732Z">
+        <seg>Рецепт: Суп з річкового мирту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: суп из царского щавеля</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153704Z" creationid="Admin" creationdate="20221015T153704Z">
+        <seg>Рецепт: Суп із царського щавлю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: сытный бульон из объедков</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153947Z" creationid="Admin" creationdate="20221015T153947Z">
+        <seg>Рецепт: Ситний бульйон з недоїдків</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: сэндвич по-крестьянски</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T154013Z" creationid="Admin" creationdate="20221015T154013Z">
+        <seg>Рецепт: Сендвіч по-селянськи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: травяное рагу</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T154004Z" creationid="Admin" creationdate="20221015T154004Z">
+        <seg>Рецепт: Трав'яне рагу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: тушёная кабанина в вине</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153756Z" creationid="Admin" creationdate="20221015T153756Z">
+        <seg>Рецепт: Тушкована кабанина у вині</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: тыквенный компот</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153539Z" creationid="Admin" creationdate="20221015T153539Z">
+        <seg>Рецепт: Гарбузовий компот</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: устрицы со снеппер-травой</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153744Z" creationid="Admin" creationdate="20221015T153744Z">
+        <seg>Рецепт: Устриці зі снепер-травою</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: хлеб с мясом</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T154024Z" creationid="Admin" creationdate="20221015T154024Z">
+        <seg>Рецепт: Хліб із м'ясом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: шашлык из крысы</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153902Z" creationid="Admin" creationdate="20221015T153902Z">
+        <seg>Рецепт: Шашлик зі щура</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рецепт: шашлык из падальщика с тыквой</seg>
+      </tuv>
+      <tuv xml:lang="uk" changeid="Admin" changedate="20221015T153614Z" creationid="Admin" creationdate="20221015T153614Z">
+        <seg>Рецепт: Шашлик падальника з гарбузом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
         <seg>Решением этой проблемы должно было стать увеличение численности рудокопов на острове Хоринис.</seg>
       </tuv>
       <tuv xml:lang="uk" changeid="Admin" changedate="20221014T174621Z" creationid="Admin" creationdate="20221014T174621Z">
