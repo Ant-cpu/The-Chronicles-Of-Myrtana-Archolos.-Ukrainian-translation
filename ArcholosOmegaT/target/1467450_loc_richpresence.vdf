@@ -5,7 +5,7 @@
 	{
 		"#Status_InMenu"	"В головному меню"
 		"#Status_InGame"	"{#Status_Guild_%guild%} - Рівень %level% - Розділ %chapter%"
-		"#Status_Guild_None"	"Одинокий"
+		"#Status_Guild_None"	"Одинак"
 		"#Status_Guild_Citizen"	"Громадянин"
 		"#Status_Guild_WaterCircle"	"Коло Води"
 		"#Status_Guild_Runner"	"Провідник"
@@ -16,9 +16,9 @@
 		"#Status_Guild_VeteranHunter"	"Старший Мисливець"
 		"#Status_Guild_Militia"	"Вартовий"
 		"#Status_Guild_MilitiaVeteran"	"Старший Вартовий"
-		"#Status_Guild_Swordsman"	"Рицар"
+		"#Status_Guild_Swordsman"	"Лицар"
 		"#Status_Guild_Crossbowman"	"Арбалетник"
-		"#Status_Guild_VeteranSwordsman"	"Старший Рицар"
+		"#Status_Guild_VeteranSwordsman"	"Старший Лицар"
 		"#Status_Guild_VeteranCrossbowman"	"Старший Арбалетник"
 	}
 }
