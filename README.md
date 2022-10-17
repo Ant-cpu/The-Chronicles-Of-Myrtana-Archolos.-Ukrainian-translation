@@ -1,8 +1,11 @@
 # The-Chronicles-Of-Myrtana-Archolos.-Ukrainian-translation
 The Chronicles Of Myrtana: Archolos. Ukrainian translation
 
-Поки в цій гілці переклад одного з розробників з оригіналу на (мокшанську) російську
+В цій гілці проєкт для OmegaT
 
-https://docs.google.com/spreadsheets/d/142hgykUh5J11WTCu_-GM6rSjK5tUy-AXgRI8w1HR4zg/edit#gid=0
+В теці source знаходяться висхідні файли для перекладу. Переклад періодично звіряється з польською, і з англійською локалізаціями.
+Тека target тимчасово не підлягає синхронізації.
 
-Список власних назв нпц, створінь і т.д. Будемо брати як приклад для локалізації
+Синхронізації підлягають лише два файли
+./omegat/project_save.tmx
+./glossary/glossary.txt
