@@ -6,6 +6,7 @@ The Chronicles Of Myrtana: Archolos. Ukrainian translation
 В теці source знаходяться висхідні файли для перекладу. Переклад періодично звіряється з польською, і з англійською локалізаціями.
 Тека target не підлягає синхронізації.
 
-Синхронізації підлягають лише два файли
+Синхронізації підлягають лише два файли, і тека tm (translate memory)
 ./omegat/project_save.tmx
 ./glossary/glossary.txt
+./tm/

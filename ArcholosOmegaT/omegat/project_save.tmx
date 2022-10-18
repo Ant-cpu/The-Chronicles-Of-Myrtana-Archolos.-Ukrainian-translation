@@ -30,6 +30,22 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>В книге описаны все секреты боевого мастерства Сынов Волка Вардхала...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221018T132050Z" creationid="Admin" creationdate="20221018T132050Z">
+        <seg>У книзі описані всі секрети бойової майстерності Синів Вовка Вардхала...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Внутри что-то есть!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221018T132010Z" creationid="Admin" creationdate="20221018T132010Z">
+        <seg>Всередині щось є!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Война с орками давалась дорогой ценой, ведь враг действовал быстро и беспощадно.</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221014T174505Z" creationid="Admin" creationdate="20221014T174446Z">
@@ -94,10 +110,26 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Какая-то белиберда!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221018T132035Z" creationid="Admin" creationdate="20221018T132035Z">
+        <seg>Якась нісенітниця!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Королевство Миртана объединилось благодаря стараниям Короля Робара II.</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221014T174336Z" creationid="Admin" creationdate="20221014T174336Z">
         <seg>Королівство Міртани об'єдналося завдяки старанням Короля Робара II.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Лучше подождать, пока я покину пещеру.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221018T132003Z" creationid="Admin" creationdate="20221018T132003Z">
+        <seg>Краще почекати, доки я залишу печеру.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126,10 +158,34 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Рецепт: бульон с грибами и травами</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Бульйон з грибами та травами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: виноградный сок</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Виноградний сік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Рецепт: глинтвейн 'Огонёк'</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221015T153914Z" creationid="Admin" creationdate="20221015T153914Z">
         <seg>Рецепт: Глінтвейн 'Вогник'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: голубцы</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Голубці</seg>
       </tuv>
     </tu>
     <tu>
@@ -182,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Рецепт: клёцки с ягодами гоблина</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Галушки з ягодами гобліна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Рецепт: компот из сухофруктов</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221015T153646Z" creationid="Admin" creationdate="20221015T153646Z">
@@ -190,10 +254,50 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Рецепт: копчёная рыба с травами</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Копчена риба з травами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Рецепт: котелок рыбака</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221015T153958Z" creationid="Admin" creationdate="20221015T153958Z">
         <seg>Рецепт: Казанок рибалки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: ленивое рагу</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Ліниве рагу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: ленивые устрицы</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Ліниві устриці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: малиновая настойка</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Малинова настойка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: малиновый коктейль</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Малиновий коктейль</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Рецепт: острый мясной пирог</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Гострий м'ясний пиріг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Рецепт: острый суп с капустой</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221015T153629Z" creationid="Admin" creationdate="20221015T153629Z">
@@ -246,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Рецепт: паштет из драконьего корня</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Паштет із драконячого кореня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Рецепт: паштет из объедков</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221017T191330Z" creationid="Admin" creationdate="20221017T191322Z">
@@ -258,6 +378,38 @@
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221015T153531Z" creationid="Admin" creationdate="20221015T153531Z">
         <seg>Рецепт: Пивний хліб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: пирог с овощами и грибами</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Пиріг з овочами та грибами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: пряная сельдь</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Пряний оселедець</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: рагу Марты</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Рагу Марти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: рыба в пивном кляре</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Риба у пивному клярі</seg>
       </tuv>
     </tu>
     <tu>
@@ -282,6 +434,14 @@
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221015T153928Z" creationid="Admin" creationdate="20221015T153928Z">
         <seg>Рецепт: Рибні котлети з вогняною травою</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: рыбный суп с травами</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Рибний суп із травами</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Рецепт: сытное рагу Марты</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Ситне рагу Марти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Рецепт: сытный бульон из объедков</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221015T153947Z" creationid="Admin" creationdate="20221015T153947Z">
@@ -342,10 +510,26 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Рецепт: травяной суп тролля</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Трав'яний суп троля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Рецепт: тушёная кабанина в вине</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221015T153756Z" creationid="Admin" creationdate="20221015T153756Z">
         <seg>Рецепт: Тушкована кабанина у вині</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: тушёное мясо с жиром</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Тушковане м'ясо з жиром</seg>
       </tuv>
     </tu>
     <tu>
@@ -366,10 +550,34 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Рецепт: фирменное блюдо охотника</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Фірмова страва мисливця</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Рецепт: хлеб с мясом</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221015T154024Z" creationid="Admin" creationdate="20221015T154024Z">
         <seg>Рецепт: Хліб із м'ясом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: целебное медвежье рагу</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Цілюще ведмеже рагу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: шарлотка</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Шарлотка</seg>
       </tuv>
     </tu>
     <tu>
@@ -386,6 +594,38 @@
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221015T153614Z" creationid="Admin" creationdate="20221015T153614Z">
         <seg>Рецепт: Шашлик падальника з гарбузом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: экзотический десерт</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Екзотичний десерт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: ягодный джем</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Ягідний джем</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: ягодный компот</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Ягідний компот</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рецепт: яичница по-деревенски</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T082845Z" creationid="OmegaT Aligner" creationdate="20221018T082845Z">
+        <seg>Рецепт: Яєчня по-селянськи</seg>
       </tuv>
     </tu>
     <tu>
@@ -418,6 +658,22 @@
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221014T175942Z" creationid="Admin" creationdate="20221014T175942Z">
         <seg>Флот Міртани за лічені часи опинився на дні океану,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Хорошо, теперь всё ясно.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221018T131951Z" creationid="Admin" creationdate="20221018T131951Z">
+        <seg>Добре, тепер все зрозуміло.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Что это?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221018T132024Z" creationid="Admin" creationdate="20221018T132024Z">
+        <seg>Що це?</seg>
       </tuv>
     </tu>
     <tu>
