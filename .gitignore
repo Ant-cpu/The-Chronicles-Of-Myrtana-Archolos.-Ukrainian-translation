@@ -6,8 +6,8 @@ last_entry.properties
 project_stats.txt
 project_save.tmx.*.bak
 
-!/ArcholosOmegaT/omegat/glossary/
-!/ArcholosOmegaT/omegat/tm/
+!ArcholosOmegaT/glossary/
+!ArcholosOmegaT/tm/
 !glossary.txt
 !project_save.tmx
 !filters.xml
