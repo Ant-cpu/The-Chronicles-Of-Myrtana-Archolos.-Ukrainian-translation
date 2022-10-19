@@ -8,8 +8,8 @@
       <tuv lang="ru-RU">
         <seg>(Верхняя плита)</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221019T090331Z" creationid="Gleban" creationdate="20221019T090331Z">
-        <seg>Верхняя плита.</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221019T093856Z" creationid="Gleban" creationdate="20221019T090331Z">
+        <seg>Верхня плита.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120,8 +120,8 @@
       <tuv lang="ru-RU">
         <seg>Верхняя плита.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221019T090222Z" creationid="Gleban" creationdate="20221019T090222Z">
-        <seg>Верхняя плита.</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221019T093820Z" creationid="Gleban" creationdate="20221019T090222Z">
+        <seg>Верхня плита.</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,8 +200,8 @@
       <tuv lang="ru-RU">
         <seg>Во время разговора Феликсу захотелось выпить.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221019T090200Z" creationid="Gleban" creationdate="20221019T090200Z">
-        <seg>Во время разговора Феликсу захотелось выпить.</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221019T093636Z" creationid="Gleban" creationdate="20221019T090200Z">
+        <seg>Під час розмови Феліксу захотілось випити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -354,6 +354,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
         <seg>Розділ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Говорю тебе, продавец зелий, я иду в бой и мне нужны только твои самые сильные зелья.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221019T100739Z" creationid="Gleban" creationdate="20221019T100739Z">
+        <seg>Алхіміку, я кажу тобі, що я поспішаю, і мені потрібні лише твої найсильніші еліксири.</seg>
       </tuv>
     </tu>
     <tu>
@@ -560,8 +568,8 @@
       <tuv lang="ru-RU">
         <seg>Здравствуй, продавец зелий, я иду в бой, и мне нужны твои самые сильные зелья.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221019T075725Z" creationid="Gleban" creationdate="20221019T075725Z">
-        <seg>Здравствуй, продавец зелий, я иду в бой, и мне нужны твои самые сильные зелья.</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221019T100259Z" creationid="Gleban" creationdate="20221019T094530Z">
+        <seg>Вітаю, алхімік, я поспішаю, і мені потрібні твої найсильніші еліксири.</seg>
       </tuv>
     </tu>
     <tu>
@@ -794,6 +802,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221019T074626Z" creationid="OmegaT Aligner" creationdate="20221019T074626Z">
         <seg>Модифікація підтримує тільки SystemPack версії 1.8. Ми не гарантуємо сумісність з іншими версіями та патчами, а також Union або т.п.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Мои зелья слишком сильны для тебя, путник.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221019T101202Z" creationid="Gleban" creationdate="20221019T100642Z">
+        <seg>Мої настої занадто сильні для тебе, мандрівник.</seg>
       </tuv>
     </tu>
     <tu>
