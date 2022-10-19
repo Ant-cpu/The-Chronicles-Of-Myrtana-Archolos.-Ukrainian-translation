@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="ru-RU"/>
+  <body>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>ВЕРНУТЬ ВСЕ СВОИ ДОСПЕХИ</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>ЗАБРАТИ ВСЮ СВОЮ БРОНЮ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Прогнать)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Прогнати)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Погладить)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Погладити)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Дать кличку)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Дати ім'я)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Поговорить с собакой)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Поговорити з собакою)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Завершить)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Закінчити)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Попрощаться и направить к Виктору)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Попрощатись і відправити до Віктора)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Вылить воду)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Вилити воду)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Потребовать драки)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Вимагати бійки)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Заплатить за ключи от дома)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Оплатити ключі від будинку)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Молчать)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Мовчати)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Молчать)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Мовчати)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Молчать)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Мовчати)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Вмешаться)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Втрутитися)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Предложить косячок)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Запропонувати траву)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Дать зелье исцеления)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Дати цілюще зілля)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Отдать шкуры)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Віддати шкури)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Купить доспехи)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Купити броню)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Отдать доспех)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Віддати броню)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Применить позу)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Застосувати позу)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Послушать шутку)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Послухати жарт)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Встань там, где я покажу.</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Стій там, де я покажу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Угостить едой)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Пригостити їжею)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Спросить о ссоре между братьями)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Запитати про сварку між братами)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Спросить о Холдвиге)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Запитати про Холдвіга)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Спросить о разведчике)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Запитати про розвідника)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Взять)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Взяти)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Попробовать)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Спробувати)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Спровоцировать)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Спровокувати)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Выпить)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Випити)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Купить карту)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Придбати карту)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Посмотреть объявления)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Переглянути оголошення)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Посмотреть карту города)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Переглянути карту міста)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Оставить уведомление об аукционе на продажу дома)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Залишити повідомлення про аукціон з продажу будинку)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Посмотреть предложения торговли и обучения)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Перегляд торгових та навчальних пропозицій)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Посмотреть объявления о розыске)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Перегляд оголошень про розшук)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Показать печать Лоренцо)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Показати печатку Лоренцо)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Спросить о должниках)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Запитати про боржників)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Спросить о семенах)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Запитати про насіння)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Взять объявление)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Взяти оголошення)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Заплатить 200 золотых)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Заплатити 200 золотих)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Предложить взятку)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Запропонувати хабар)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Заплатить за вход)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Оплатити вхід)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Попытаться украсть ключ от сундука Родриго)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Спробувати вкрасти ключ від грудей Родріго)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Угостить выпивкой)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Пригостити напоєм)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Предложить выпить)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Запропонувати напій)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Спросить о Бурхарде)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Запитати про Бурхарда)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Предложить пиво)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Запропонувати пиво)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Вытянуть испытание)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Витягнути випробування)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Проверить цвет волос)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Перевірити колір волосся)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Обыскать карманы)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Обшукати кишені)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Приступить к написанию речи)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Приступити до написання промови)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Осмотреть раны)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Оглянути рани)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Осмотреть рог)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Оглянути ріг)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Спрятать труп в бочке)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Приховати труп у бочці)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Завершить осмотр)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Завершити огляд)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Осмотреть труп)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Оглянути труп)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Осмотреть глотку)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Оглянути горлянку)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Осмотреть пол под трупом)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Оглянути підлогу під трупом)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Понюхать рагу)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Понюхати рагу)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Улучшение доспехов – +7 ко всем показателям защиты)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Поліпшення обладунків – +7 до всіх показників захисту)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Заплатить за избавление от глашатая Волкера)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Заплатити за позбавлення від глашата Волкера)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Отдать сырое мясо кабана)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Віддати сире м'ясо кабана)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Заплатить 200 золотых за провизию)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Заплатити 200 золотих за провізію)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Угостить 'Чёрным троллем')</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Пригостити 'Чорним тролем')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Отдать Чёрного тролля)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Віддати Чорного троля)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Купить ключ – 1000 золотых)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Купити ключ – 1000 золотих)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Купить ключ – 500 золотых)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Купить ключ – 500 золотих)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Заплатить за участие в турнире)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Заплатити за участь у турнірі)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>По рукам!</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Домовилися!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(50 золотых)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(50 золотих)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Держи!</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Тримай!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Дать 1 золотой)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Дати 1 золотий)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>К сожалению, я не могу тебе помочь.</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>На жаль, я не можу тобі допомогти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(КОНЕЦ)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(КІНЕЦЬ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Пережитая битва.</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Пережити битву.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(5 золотых)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(5 золотих)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Рассвет Миртаны.</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Світанок Миртани.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(15 золотых)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(15 золотих)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Через мглу я вижу остров.</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Я бачу острів крізь туман.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(20 золотых)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(20 золотих)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Держи!</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Тримай!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(Дать 40 золотых)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(дати 40 золотих)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Доставь меня... (10 золотых)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Достав мене... (10 золотих)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Отведи меня... (5 золотых)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Відведи мене... (5 золотих)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Мне сейчас некогда... (КОНЕЦ)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Мені зараз ніколи... (КІНЕЦЬ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Это всё.</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Це все.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(КОНЕЦ)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(КІНЕЦЬ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Дай мне этот свиток.</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Дай мені цей сувій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(КОНЕЦ)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(КІНЕЦЬ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Я выдвигаюсь как можно скорее.</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Я вирушаю якогомога швидше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>(КОНЕЦ)</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(КІНЕЦЬ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Выбрать место.</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Вибрати місце.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Следуй за мной!</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Пішли зі мною!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Ударить киркой.</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Вдарити киркою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Переписать свиток.</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Переписати сувій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Алтарь Инноса в городе.</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Вівтар Інноса у місті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Храм Аданоса в городе.</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Храм Аданоса в місті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Дом в Старом городе.</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Будинок у Старому місті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Заброшенная пещера у города.</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Занедбана печера біля міста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Янтарное побережье.</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Бурштинове узбережжя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Крепость Вардхал.</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Фортеця Вардхал.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Зильбах.</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Зільбах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Проклятое болото.</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Кляте болото.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ru-RU">
+        <seg>Последняя гавань.</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>Остання гавань.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

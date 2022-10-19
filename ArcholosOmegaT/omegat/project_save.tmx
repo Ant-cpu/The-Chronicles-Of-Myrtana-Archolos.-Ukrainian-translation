@@ -6,6 +6,38 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="ru-RU">
+        <seg>(Верхняя плита)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221019T090331Z" creationid="Gleban" creationdate="20221019T090331Z">
+        <seg>Верхняя плита.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>22 кГц|44 кГц</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>22 кГц | 44 кГц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>DEL - удалить, ENTER - назначить клавишу.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>DEL - вилучити, ENTER - призначити клавішу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>LOD</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>LOD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>А каждый гражданин, способный держать меч, независимо от материального благосостояния, вскоре должен был быть отправлен на фронт.</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221014T180110Z" creationid="Admin" creationdate="20221014T180110Z">
@@ -14,10 +46,58 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>АТРИБУТЫ</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>АТРИБУТИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Активирует альтернативные настройки управления.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Активує альтернативні опції керування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Альтернативные настройки</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Альтернативні налаштування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Анимация диалогов</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Анімація діалогів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Архолос начал вскипать от внутренних конфликтов, вызванных беженцами со всего королевства</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221014T180210Z" creationid="Admin" creationdate="20221014T180210Z">
         <seg>Архолос почав закипати від внутрішніх конфліктів, викликаних біженцями з усього царства</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Атака влево</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Атака вліво</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>БОЕВЫЕ НАВЫКИ</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>БОЙОВІ НАВИЧКИ</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,10 +118,90 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Верхняя плита.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221019T090222Z" creationid="Gleban" creationdate="20221019T090222Z">
+        <seg>Верхняя плита.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Ветер</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Вітер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Вид от 1-го лица</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Вигляд від 1-ї особи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Видео</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Відео</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Видеокарта</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Відеокарта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Видимость объекта</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Видимість об'єкту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Вкл.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Вкл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Вкл/откл.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Увімк./вимк.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Включить/выключить фоновую музыку.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Увімкнути/вимкнути фоновую музику.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Внутри что-то есть!</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221018T132010Z" creationid="Admin" creationdate="20221018T132010Z">
         <seg>Всередині щось є!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Во время разговора Феликсу захотелось выпить.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221019T090200Z" creationid="Gleban" creationdate="20221019T090200Z">
+        <seg>Во время разговора Феликсу захотелось выпить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,10 +214,42 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Волны на воде</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Хвилі на воді</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Восстанавливает настройки управления по умолчанию.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Відновлює параметри керування за промовчанням.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Вот так я здесь и оказался.</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221014T180538Z" creationid="Admin" creationdate="20221014T180538Z">
         <seg>Ось так я тут і опинився.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Вперёд</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Вперeд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Время:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Час:</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,10 +270,234 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Вы уверены?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Ви впевнені?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Выберите дальность видимости для объектов.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Виберіть дальність видимості об'єктів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Выберите уровень детализации моделей.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Виберіть рівень деталізації моделей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Выберите уровень детализации текстур.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Виберіть рівень деталізації текстур</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Выделение врага</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Виділення ворога</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Выделение объекта</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Виділення об'єкта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Выйти из игры</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Вийти з гри</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Выполненные</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Виконані</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Выполненные\nзадания</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Виконані\nзавдання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Гамма</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Гамма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Глава</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Розділ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Графика</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Графіка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Громкость фоновой музыки.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Гучність фонової музики.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>ДОПОЛНИТЕЛЬНЫЕ НАСТРОЙКИ</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>ДОДАТКОВІ НАЛАШТУВАННЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Да</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Так</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Да, это я!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221019T075628Z" creationid="Admin" creationdate="20221018T143343Z">
+        <seg>Так, це я!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Да, я хочу начать новую игру.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Так, я хочу почати нову гру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Действие</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Дія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>День</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>День</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Динамики</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Динаміки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Дневник</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Щоденник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Доп.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Дод.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Достать оружие</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Дістати зброю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Драйвер</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Драйвер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Если вы хотите продолжить прохождение игры, пожалуйста, вернитесь на нужную вам версию игры в лаунчере Steam или GOG.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221019T074626Z" creationid="OmegaT Aligner" creationdate="20221019T074626Z">
+        <seg>Якщо ви хочете продовжити цю гру, будь ласка, поверніться на потрібну версію гри в лаунчері Steam або GOG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Ещё клавиши...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Ще клавіші...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Желая сохранить контроль над регионом, король приказал конфисковать каждый корабль, который способен доставлять войска на фронт,</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221014T180040Z" creationid="Admin" creationdate="20221014T180040Z">
         <seg>Бажаючи зберегти контроль над регіоном, король наказав конфіскувати кожен корабель, який здатний доставляти війська на фронт,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>ЗАГРУЗИТЬ ИГРУ</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>ЗАВАНТАЖИТИ ГРУ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>ЗАЩИТА</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>ЗАХИСТ</seg>
       </tuv>
     </tu>
     <tu>
@@ -94,10 +510,122 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Загрузка игры</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Завантаження гри</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Заставка</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Заставка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Захватить цель</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Захопить ціль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Звук</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Звук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Звуковые эффекты и громкость речи.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Звукові ефекти та гучність мови.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Здоровье</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>ЗДОРОВ'Я</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Здравствуй, продавец зелий, я иду в бой, и мне нужны твои самые сильные зелья.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221019T075725Z" creationid="Gleban" creationdate="20221019T075725Z">
+        <seg>Здравствуй, продавец зелий, я иду в бой, и мне нужны твои самые сильные зелья.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Зелье маны</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Зілля мани</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Игра</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Гра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Из-за затянувшейся войны, с каждым днём экономика королевства погружалась во всё больший кризис.</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221014T174604Z" creationid="Admin" creationdate="20221014T174604Z">
         <seg>Через тривалу війну, з кожним днем економіка королівства занурювалася в дедалі більшу кризу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Инвентарь</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Інвентар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Инвентарь G1</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Інвентар G1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Инверсия камеры</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Інверсія камери</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Инвертировать управление камерой.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Інвертувати керування камерою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Использовать управление в бою из Gothic I</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Використовувати управління в бою з Gothic I</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,6 +646,46 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Карта</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Мапа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Кач-во звука</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Якість звуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Код ошибки:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221019T074626Z" creationid="OmegaT Aligner" creationdate="20221019T074626Z">
+        <seg>Код помилки:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Количество крови.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Кількість крові</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Контраст</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Контраст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Королевство Миртана объединилось благодаря стараниям Короля Робара II.</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221014T174336Z" creationid="Admin" creationdate="20221014T174336Z">
@@ -126,10 +694,474 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Красться вкл/откл.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Крастись увімк/вимк.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Кровь</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Кров</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Круг:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Коло:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Ловкость</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>СПРИТНІСТЬ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Локация:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Локація:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Лучше подождать, пока я покину пещеру.</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221018T132003Z" creationid="Admin" creationdate="20221018T132003Z">
         <seg>Краще почекати, доки я залишу печеру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Мана</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>МАНА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Масштаб.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221018T143216Z" creationid="Admin" creationdate="20221018T143216Z">
+        <seg>Масштаб.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Масштабирование</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Масштабування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Масштабирование видимости в локациях.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Масштабування видимості у локаціях</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Мне не стоит подниматься наверх.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221019T090402Z" creationid="Gleban" creationdate="20221019T090402Z">
+        <seg>Мені не варто підніматись нагору.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Модели</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Моделі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Модификация поддерживает только SystemPack версии 1.8.\nМы не гарантируем совместимость с другими версиями и патчами, а также Union или т.п.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221019T074626Z" creationid="OmegaT Aligner" creationdate="20221019T074626Z">
+        <seg>Модифікація підтримує тільки SystemPack версії 1.8. Ми не гарантуємо сумісність з іншими версіями та патчами, а також Union або т.п.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Мышь</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Миша</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>НАВЫКИ</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>НАВИЧКИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>НАСТРОЙКИ</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>НАЛАШТУВАННЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>НАСТРОЙКИ ВИДЕО</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>НАЛАШТУВАННЯ ВІДЕО</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>НАСТРОЙКИ ГРАФИКИ</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>НАЛАШТУВАННЯ ГРАФІКИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>НАСТРОЙКИ ЗВУКА</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>НАЛУШТУВАННЯ ЗВУКУ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>НАСТРОЙКИ ИГРЫ</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>НАЛАШТУВАННЯ ГРИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>НАСТРОЙКИ УПРАВЛЕНИЯ</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>НАЛАШТУВАННЯ УПРАВЛІННЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Нажмите желаемую клавишу.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Натисніть потрібну клавішу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Назад</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Назад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Нам говорят, что чрезвычайное положение – вина беженцев, поэтому стражи у ворот, чтобы было легче поймать их!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221018T143331Z" creationid="Admin" creationdate="20221018T143331Z">
+        <seg>Нам говорят, что чрезвычайное положение – вина беженцев, поэтому стражи у ворот, чтобы было легче поймать их!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Настройка выделения выбранного объекта</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Налаштування виділення вибраного об'єкта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Настройка дополнительных клавиш управления</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Налаштування додаткових клавіш керування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Настройка подсветки текущей цели в бою</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Налаштування підсвічування поточної мети у бою</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Настройки</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Налаштування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Настройки по умолчанию</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Параметри за замовчуванням</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Настройте дальность обзора в процентах.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Налаштуйте дальність огляду у відсотках</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Не удалось выполнить загрузку библиотеки KmLib.dll!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221019T074626Z" creationid="OmegaT Aligner" creationdate="20221019T074626Z">
+        <seg>Неможливо завантажити бібліотеку KmLib.dll!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Не удалось прочитать функцию из библиотеки KmLib.dll!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221019T074626Z" creationid="OmegaT Aligner" creationdate="20221019T074626Z">
+        <seg>Неможливо прочитати функцію з бібліотеки KmLib.dll!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Невозможно загрузить сохранение, так как оно несовместимо с текущей версией игры.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221019T074626Z" creationid="OmegaT Aligner" creationdate="20221019T074626Z">
+        <seg>Неможливо завантажити збереження, оскільки воно несумісне з поточною версією гри.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Невозможно загрузить сохранение, язык сохранённой игры не совпадает с текущим языком игры!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221019T074626Z" creationid="OmegaT Aligner" creationdate="20221019T074626Z">
+        <seg>Неможливо завантажити збереження, мова збереженої гри не співпадає із поточною мовою гри!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Нет</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Ні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Нет, я хочу вернуться в меню.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Ні, я хочу повернутися в меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Новая игра</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Нова гра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Нужен перезапуск игры!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Потрібний перезапуск гри!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Обзор</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Огляд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Обнаружена неподдерживаемая версия SystemPack!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221019T074626Z" creationid="OmegaT Aligner" creationdate="20221019T074626Z">
+        <seg>Виявлено непідтримувану версію SystemPack!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Обнаружено переполнение памяти, для корректной работы игры ей необходимо больше 2 Гб опертивной памяти.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221019T074626Z" creationid="OmegaT Aligner" creationdate="20221019T074626Z">
+        <seg>Виявлено переповнення пам'яті, для правильної роботи гри їй потрібно більше ніж 2 Гб оперативної пам'яті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Общая\nинформация</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Загальна\nінформація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Объекты окруж.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Об'єкти оточення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Оконный режим</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Віконний режим</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Опыт</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Досвід</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Отлично!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221019T090543Z" creationid="Gleban" creationdate="20221019T090543Z">
+        <seg>Чудово!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Отражения</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Відображення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Очки обучения</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Очки навчання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>ПЕРСОНАЖ</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>ПЕРСОНАЖ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Парирование</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Парування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Поворот налево</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Поворот ліворуч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Поворот направо</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Поворот праворуч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Подтвердите свой выбор, нажав ENTER.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Підтвердіть свій вибір, натиснувши ENTER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Пожалуйста, переустановите игру или обратитесь в службу технической поддержки.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221019T074626Z" creationid="OmegaT Aligner" creationdate="20221019T074626Z">
+        <seg>Будь ласка, перевстановіть гру або зверніться до служби технічної підтримки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Пожалуйста, переустановите программу или обратитесь в службу технической поддержки.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221019T074626Z" creationid="OmegaT Aligner" creationdate="20221019T074626Z">
+        <seg>Будь ласка, перевстановіть програму або зверніться до служби технічної підтримки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Пожалуйста, установите "4GB Patch", который можно скачать с сайта https://ntcore.com/?page_id=371.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221019T074626Z" creationid="OmegaT Aligner" creationdate="20221019T074626Z">
+        <seg>Будь-ласка, встановіть "4GB Patch", який можна завантажити з сайту https://ntcore.com/?page_id=371.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Пожалуйста, установите последние версии распространяемых пакетов Visual Studio (https://aka.ms/vs/16/release/vc_redist.x86.exe или https://aka.ms/vs/16/release/vc_redist.x64.exe).</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221019T074626Z" creationid="OmegaT Aligner" creationdate="20221019T074626Z">
+        <seg>Будь ласка, встановіть останні версії пакетів Visual Studio (https://aka.ms/vs/16/release/vc_redist.x86.exe або https://aka.ms/vs/16/release/vc_redist.x64.exe). .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Помогает при сбоях.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Допомагає при збоях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Последняя гавань.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221019T085948Z" creationid="Gleban" creationdate="20221019T085948Z">
+        <seg>Остання гавань.</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,10 +1182,98 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Проваленные</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Провалені</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Проваленные\nзадания</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Провалені\nзавдання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Продолжить</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Продовжити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Прозрачная вода</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Прозора вода</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Производительность/качество</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Продуктивність/Якість</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Просто отлично!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221019T090551Z" creationid="Gleban" creationdate="20221019T090551Z">
+        <seg>Просто чудово!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Прыжок</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Стрибок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>РАСШИРЕННОЕ УПРАВЛЕНИЕ</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>РОЗШИРЕНЕ УПРАВЛІННЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Радиус обзора</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Радіус огляду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Разрешение</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Розширення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Расслабься, всё будет в порядке.</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221014T180609Z" creationid="Admin" creationdate="20221014T180609Z">
         <seg>Розслабся, все буде добре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Расширенные настройки</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Розширені налаштування</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,6 +1758,326 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>СОХРАНИТЬ ИГРУ</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>ЗБЕРЕГТИ ГРУ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Сила</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>СИЛА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>След.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Наст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 1 - нажмите ENTER, чтобы загрузить это сохранение.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 1 - натисніть ENTER, щоб завантажити це збереження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 1 - нажмите ENTER, чтобы сохранить игру.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 1 - натисніть ENTER, щоб зберегти гру на цей слот.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 10 - нажмите ENTER, чтобы загрузить это сохранение.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 10 - натисніть ENTER, щоб завантажити це збереження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 10 - нажмите ENTER, чтобы сохранить игру.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 10 - натисніть ENTER, щоб зберегти гру на цей слот.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 11 - нажмите ENTER, чтобы загрузить это сохранение.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 11 - натисніть ENTER, щоб завантажити це збереження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 11 - нажмите ENTER, чтобы сохранить игру.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 11 - натисніть ENTER, щоб зберегти гру на цей слот.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 12 - нажмите ENTER, чтобы загрузить это сохранение.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 12 - натисніть ENTER, щоб завантажити це збереження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 12 - нажмите ENTER, чтобы сохранить игру.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 12 - натисніть ENTER, щоб зберегти гру на цей слот.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 13 - нажмите ENTER, чтобы загрузить это сохранение.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 13 - натисніть ENTER, щоб завантажити це збереження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 13 - нажмите ENTER, чтобы сохранить игру.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 13 - натисніть ENTER, щоб зберегти гру на цей слот.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 14 - нажмите ENTER, чтобы загрузить это сохранение.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 14 - натисніть ENTER, щоб завантажити це збереження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 14 - нажмите ENTER, чтобы сохранить игру.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 14 - натисніть ENTER, щоб зберегти гру на цей слот.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 15 - нажмите ENTER, чтобы загрузить это сохранение.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 15 - натисніть ENTER, щоб завантажити це збереження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 15 - нажмите ENTER, чтобы сохранить игру.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 15 - натисніть ENTER, щоб зберегти гру на цей слот.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 2 - нажмите ENTER, чтобы загрузить это сохранение.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 2 - натисніть ENTER, щоб завантажити це збереження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 2 - нажмите ENTER, чтобы сохранить игру.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 2 - натисніть ENTER, щоб зберегти гру на цей слот.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 3 - нажмите ENTER, чтобы загрузить это сохранение.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 3 - натисніть ENTER, щоб завантажити це збереження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 3 - нажмите ENTER, чтобы сохранить игру.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 3 - натисніть ENTER, щоб зберегти гру на цей слот.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 4 - нажмите ENTER, чтобы загрузить это сохранение.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 4 - натисніть ENTER, щоб завантажити це збереження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 4 - нажмите ENTER, чтобы сохранить игру.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 4 - натисніть ENTER, щоб зберегти гру на цей слот.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 5 - нажмите ENTER, чтобы загрузить это сохранение.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 5 - натисніть ENTER, щоб завантажити це збереження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 5 - нажмите ENTER, чтобы сохранить игру.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 5 - натисніть ENTER, щоб зберегти гру на цей слот.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 6 - нажмите ENTER, чтобы загрузить это сохранение.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 6 - натисніть ENTER, щоб завантажити це збереження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 6 - нажмите ENTER, чтобы сохранить игру.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 6 - натисніть ENTER, щоб зберегти гру на цей слот.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 7 - нажмите ENTER, чтобы загрузить это сохранение.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 7 - натисніть ENTER, щоб завантажити це збереження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 7 - нажмите ENTER, чтобы сохранить игру.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 7 - натисніть ENTER, щоб зберегти гру на цей слот.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 8 - нажмите ENTER, чтобы загрузить это сохранение.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 8 - натисніть ENTER, щоб завантажити це збереження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 8 - нажмите ENTER, чтобы сохранить игру.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 8 - натисніть ENTER, щоб зберегти гру на цей слот.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 9 - нажмите ENTER, чтобы загрузить это сохранение.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 9 - натисніть ENTER, щоб завантажити це збереження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Слот 9 - нажмите ENTER, чтобы сохранить игру.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Слот 9 - натисніть ENTER, щоб зберегти гру на цей слот.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Советуем ознакомиться с руководством по данной ошибке, доступным по следующей ссылке: https://thechroniclesofmyrtana.com/saves-compatibility</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221019T074626Z" creationid="OmegaT Aligner" creationdate="20221019T074626Z">
+        <seg>Радимо ознайомитися з посібником щодо даної помилки, доступним за наступним посиланням: https://thechroniclesofmyrtana.com/saves-compatibility</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Сохранение игры</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Збереження гри</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Сохранено:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Збережено:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Субтитры</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Субтитри</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Текстуры</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Текстури</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Текущие</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Поточні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Текущие\nзадания</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Поточні\nзавдання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Тем временем на маленьком острове Лондрам два брата готовятся бежать на Архолос.</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221014T180430Z" creationid="Admin" creationdate="20221014T180430Z">
@@ -654,10 +2094,106 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Тени от облаков</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Тіни від хмар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Титры</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Титри</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Требуется перезапуск игры!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Потрібно перезапустити гру!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Удерживайте SHIFT для смены категории.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Утримуйте SHIFT для зміни категорії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Уменьшает детализацию объекта, с увеличением расстояния.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Зменшує деталізацію об'єкта зі збільшенням відстані</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Управление</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Управління</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Управление G1</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Управління G1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Уровень</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Рівень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Уровень музыки</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Рівень музики</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Файл KmLib.dll не найден!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221019T074626Z" creationid="OmegaT Aligner" creationdate="20221019T074626Z">
+        <seg>Файл KmLib.dll не знайдено!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Факел</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Смолоскип</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Флот Миртаны за считаные часы оказался на дне океана,</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221014T175942Z" creationid="Admin" creationdate="20221014T175942Z">
         <seg>Флот Міртани за лічені часи опинився на дні океану,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Характеристики</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Характеристики</seg>
       </tuv>
     </tu>
     <tu>
@@ -670,10 +2206,122 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Хроники Миртаны: Архолос</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221019T075003Z" creationid="Admin" creationdate="20221018T143323Z">
+        <seg>Хроніки Міртани: Архолос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Целебное зелье</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Цілюще зілля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Что это?</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221018T132024Z" creationid="Admin" creationdate="20221018T132024Z">
         <seg>Що це?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Чувствительность мыши</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Чутливість миші</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Шаг вкл/откл.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Крок увімк/вимк.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Шаг влево</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Крок вліво</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Шаг вправо</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Крок вправо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Это может прекратить сбои.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Це може припинити збої</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Эффект эха</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Ефект луна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Эффект эха в пещерах и т.п.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Ефект відлуння у печерах, тощо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Эффекты и речь</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Ефекти та мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Эффекты неба</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Ефекти неба</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Эффекты окруж.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Ефекти оточення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Я должен прийти сюда вечером.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221019T090347Z" creationid="Gleban" creationdate="20221019T075351Z">
+        <seg>Я повинен прийти сюди ввечері.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Яркость</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Яскравість</seg>
       </tuv>
     </tu>
     <tu>
@@ -686,10 +2334,50 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>анимации диалогового окна.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>анімації діалогового вікна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>видео</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221018T143220Z" creationid="Admin" creationdate="20221018T143220Z">
+        <seg>Відео</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>вкл|откл</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>увімк|вимк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>включая весь флот Гильдии торговцев Араксос.</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221014T180050Z" creationid="Admin" creationdate="20221014T180050Z">
         <seg>включаючи весь флот Гільдії торговців Араксос.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>да|нет</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>так|ні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>дополнительные объекты окружения</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>додаткові об'єкти оточення</seg>
       </tuv>
     </tu>
     <tu>
@@ -706,6 +2394,206 @@
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221014T180234Z" creationid="Admin" creationdate="20221014T180234Z">
         <seg>яких з кожним днем прибуває дедалі більше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>колонки|наушники|объёмный|квадро|5.1|7.1</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Колонки|Навушники|Об'ємний|Квадро|5.1|7.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>много</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221018T143157Z" creationid="Admin" creationdate="20221018T143152Z">
+        <seg>Багато</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>музыку</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>музику</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>необязательные эффекты частиц</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>необов'язкові ефекти частинок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>нет|да</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>ні|так</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>нет|мало|много|оч.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Admin" changedate="20221018T143148Z" creationid="Admin" creationdate="20221018T143148Z">
+        <seg>Немає | Мало | Багато | Дуже багато</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>нет|рамка|подсветка|оба</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Немає | Рамка | Підсвічування |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>ничего нет</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Нічого немає</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>от дробящего</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>від дроблячого</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>от магии</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>від магії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>от огня</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>від вогню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>от режущего</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>від ріжучого</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>от стрел</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>від стріл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>откл|вкл</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>вимк|увімк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>отображение волн</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>відображення хвиль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>отображение текста во время диалогов.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>відображення тексту під час діалогів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>отражения</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>відображення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>параметры пользователя#производительность|среднее качество|высокое качество</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Параметри користувача#Продуктивність|Середня якість|Висока якість</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>прозрачность воды</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>прозорість води</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>тени от облаков</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>тіні від хмар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>управление камерой с помощью мыши.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>керування камерою за допомогою миші.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>уровень</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>рівень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>урон:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>шкода:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>эффекты ветра на объектах</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>ефекти вітру на об'єктах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>эффекты неба.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>ефекти неба.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
