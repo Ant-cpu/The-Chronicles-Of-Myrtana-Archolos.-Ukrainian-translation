@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="ru-RU">
+        <seg>(+</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T181042Z" creationid="Gleban" creationdate="20221027T181042Z">
+        <seg>(+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>(15 золотых)</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221019T085336Z" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
@@ -526,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>(Известно)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T181450Z" creationid="Gleban" creationdate="20221027T181450Z">
+        <seg> (Відомо)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>(КОНЕЦ)</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221019T085336Z" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
@@ -602,6 +618,22 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221025T124547Z" creationid="Gleban" creationdate="20221025T124547Z">
         <seg>(Насипати гору золота - 10000 золотих)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>(Нет ничего проще, чем украсть его кошелёк)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T175028Z" creationid="Gleban" creationdate="20221027T175028Z">
+        <seg>(Вкрасти його гаманець було б дитячою грою)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>(Нет ничего проще, чем украсть её кошелёк)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T175609Z" creationid="Gleban" creationdate="20221027T175609Z">
+        <seg>(Вкрасти її гаманець було б дитячою грою)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1530,6 +1562,86 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221019T085336Z" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
         <seg>(Пригостити їжею)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>(Украсть его кошелёк будет довольно просто)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T175233Z" creationid="Gleban" creationdate="20221027T175105Z">
+        <seg>(Вкрасти його гаманець буде досить просто)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>(Украсть его кошелёк будет довольно рискованно)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T175217Z" creationid="Gleban" creationdate="20221027T175136Z">
+        <seg>(Вкрасти його гаманець буде досить ризиковано)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>(Украсть его кошелёк будет довольно трудно)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T175213Z" creationid="Gleban" creationdate="20221027T175213Z">
+        <seg>(Вкрасти його гаманець буде досить важко)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>(Украсть его кошелёк будет практически невозможно)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T175518Z" creationid="Gleban" creationdate="20221027T175518Z">
+        <seg>(Вкрасти його гаманець буде майже неможливо)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>(Украсть его кошелёк будет чертовски трудно)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T175416Z" creationid="Gleban" creationdate="20221027T175416Z">
+        <seg>(Вкрасти його гаманець буде в біса важко)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>(Украсть её кошелёк будет довольно просто)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T175620Z" creationid="Gleban" creationdate="20221027T175620Z">
+        <seg>(Вкрасти її гаманець буде досить просто)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>(Украсть её кошелёк будет довольно рискованно)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T175627Z" creationid="Gleban" creationdate="20221027T175627Z">
+        <seg>(Вкрасти її гаманець буде досить ризиковано)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>(Украсть её кошелёк будет довольно трудно)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T175632Z" creationid="Gleban" creationdate="20221027T175632Z">
+        <seg>(Вкрасти її гаманець буде досить важко)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>(Украсть её кошелёк будет практически невозможно)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T175645Z" creationid="Gleban" creationdate="20221027T175645Z">
+        <seg>(Вкрасти її гаманець буде майже неможливо)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>(Украсть её кошелёк будет чертовски трудно)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T175637Z" creationid="Gleban" creationdate="20221027T175637Z">
+        <seg>(Вкрасти її гаманець буде в біса важко)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3254,6 +3366,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Бегите к казармам, дорога безопасна.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T155050Z" creationid="Gleban" creationdate="20221027T155050Z">
+        <seg>Біжіть до казарм, дорога безпечна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Бегун Марвин?</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221025T081356Z" creationid="OmegaT Aligner" creationdate="20221025T081356Z">
@@ -3862,6 +3982,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Ваши воровские навыки позволяют мгновенно открыть замок.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T180342Z" creationid="Gleban" creationdate="20221027T180342Z">
+        <seg>Ваші навички зламу замків дозволяють негайно відкрити замок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Ведро воды</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
@@ -4114,6 +4242,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
         <seg>Разом ми сильніші.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Внутри вы найдёте стражников, они о вас позаботятся.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T155343Z" creationid="Gleban" creationdate="20221027T155343Z">
+        <seg>Всередині ви знайдете вартових, вони подбають про вас.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4462,6 +4598,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Всё кончилось, ты в безопасности.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T155643Z" creationid="Gleban" creationdate="20221027T155643Z">
+        <seg>Все скінчено, ти в безпеці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Всё это лишь накаляло и без того очень напряжённую ситуацию на острове.</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221014T180150Z" creationid="Admin" creationdate="20221014T180150Z">
@@ -4634,6 +4778,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
         <seg>Виділення об'єкта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Выделение, похоже, не действует.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T174644Z" creationid="Gleban" creationdate="20221027T174644Z">
+        <seg>Секреція більше не дає ніякого ефекту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4968,8 +5120,8 @@
       <tuv lang="ru-RU">
         <seg>Говорю тебе, продавец зелий, я иду в бой и мне нужны только твои самые сильные зелья.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221019T100739Z" creationid="Gleban" creationdate="20221019T100739Z">
-        <seg>Алхіміку, я кажу тобі, що я поспішаю, і мені потрібні лише твої найсильніші еліксири.</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T161826Z" creationid="Gleban" creationdate="20221019T100739Z">
+        <seg>Алхіміку, я кажу тобі, що я вирушаю в дорогу, і мені потрібні лише твої найсильніші зілля.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5018,6 +5170,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221022T195316Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
         <seg>Горожанка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Горький вкус – вкус яда.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T174751Z" creationid="Gleban" creationdate="20221027T174751Z">
+        <seg>Гіркий смак – смак отрути.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5186,6 +5346,14 @@
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221025T113307Z" creationid="romas" creationdate="20221025T113307Z">
         <seg>Нехай висвітлить Він шлях, яким нам належить йти, і нехай ми встоїмо перед усіма небезпеками.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Да, мне просто нужно обработать раны...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T160730Z" creationid="Gleban" creationdate="20221027T160730Z">
+        <seg>Так, мені просто потрібно перев'язати рани...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5942,6 +6110,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Если бы не ты, мы были бы уже мёртвы.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T160505Z" creationid="Gleban" creationdate="20221027T160505Z">
+        <seg>Якби не ти, нас би вже не було.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Если всё будет продолжаться в таком же медленном темпе, придётся подумать о том, чтобы разбить лагерь...</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221025T081356Z" creationid="OmegaT Aligner" creationdate="20221025T081356Z">
@@ -6166,6 +6342,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Замок открыт.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T175845Z" creationid="Gleban" creationdate="20221027T175845Z">
+        <seg>Замок відкрито.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Западные ворота.</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221025T104534Z" creationid="Gleban" creationdate="20221025T104534Z">
@@ -6360,8 +6544,8 @@
       <tuv lang="ru-RU">
         <seg>Здравствуй, продавец зелий, я иду в бой, и мне нужны твои самые сильные зелья.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221019T100259Z" creationid="Gleban" creationdate="20221019T094530Z">
-        <seg>Вітаю, алхімік, я поспішаю, і мені потрібні твої найсильніші еліксири.</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T161745Z" creationid="Gleban" creationdate="20221019T094530Z">
+        <seg>Вітаю, алхіміку, я рушаю в дорогу, і мені потрібні твої найсильніші зілля.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6434,6 +6618,22 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
         <seg>Золото:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Золотой самородок</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T181533Z" creationid="Gleban" creationdate="20221027T181521Z">
+        <seg> Золотий самородок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Золотых самородков</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T181531Z" creationid="Gleban" creationdate="20221027T181531Z">
+        <seg> Золотих самородків</seg>
       </tuv>
     </tu>
     <tu>
@@ -6678,6 +6878,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Изготовлено:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T181610Z" creationid="Gleban" creationdate="20221027T181610Z">
+        <seg>Вироблено:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Изучено: 1-й круг магии</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221023T084922Z" creationid="Gleban" creationdate="20221023T084833Z">
@@ -6784,8 +6992,8 @@
       <tuv lang="ru-RU">
         <seg>Изучено: Подкрадывание</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221023T085344Z" creationid="Gleban" creationdate="20221023T085344Z">
-        <seg>Вивчено: Підкрадування</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T182454Z" creationid="Gleban" creationdate="20221023T085344Z">
+        <seg>Вивчено: Підкрадання</seg>
       </tuv>
     </tu>
     <tu>
@@ -6808,8 +7016,8 @@
       <tuv lang="ru-RU">
         <seg>Изучено: добыча желёз с ядом</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221023T094720Z" creationid="Gleban" creationdate="20221023T094720Z">
-        <seg>Вивчено: Вилучення отруйних залоз</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T181951Z" creationid="Gleban" creationdate="20221023T094720Z">
+        <seg>Вивчено: вилучення отруйних залоз</seg>
       </tuv>
     </tu>
     <tu>
@@ -6874,6 +7082,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221023T095320Z" creationid="Gleban" creationdate="20221023T095320Z">
         <seg>Вивчено: вилучення рогів мракорисів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Изучено: добыча семян с животных</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T181737Z" creationid="Gleban" creationdate="20221027T181737Z">
+        <seg>Вивчено: вилучення насіння у тварин</seg>
       </tuv>
     </tu>
     <tu>
@@ -7878,6 +8094,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Кровь!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T154057Z" creationid="Gleban" creationdate="20221027T154000Z">
+        <seg>Кров!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Кроме того, напоминаем, что все осуждённые, отбывающие наказание в тюрьмах более пяти лет, могут рассчитывать на сокращение срока и отбывать его, работая рудокопом!</seg>
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221025T122520Z" creationid="romas" creationdate="20221025T122427Z">
@@ -7898,6 +8122,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221022T192123Z" creationid="Gleban" creationdate="20221022T192123Z">
         <seg>Круг: 4 | Закляття Беліара</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Кругов магии не хватает для использования этой руны.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T180811Z" creationid="Gleban" creationdate="20221027T180811Z">
+        <seg>Занадто низьке коло магії, щоб використовувати цю руну.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8830,6 +9062,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Мне нужен кто-нибудь для охраны рудника.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T154903Z" creationid="Gleban" creationdate="20221027T153954Z">
+        <seg>Мені потрібен хто-небудь для охорони копальні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Мне нужен либо ключ, либо отмычка.</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221023T101940Z" creationid="Gleban" creationdate="20221023T101940Z">
@@ -8866,6 +9106,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221023T101945Z" creationid="Gleban" creationdate="20221023T101908Z">
         <seg>Мені потрібна відмичка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Мне нужно дождаться Кесселя и Риордиана.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T162834Z" creationid="Gleban" creationdate="20221027T154832Z">
+        <seg>Мне потрібно дочекатись Кесселя і Ріордіана.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9000,8 +9248,8 @@
       <tuv lang="ru-RU">
         <seg>Мои зелья слишком сильны для тебя, путник.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221019T101202Z" creationid="Gleban" creationdate="20221019T100642Z">
-        <seg>Мої настої занадто сильні для тебе, мандрівник.</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T161033Z" creationid="Gleban" creationdate="20221019T100642Z">
+        <seg>Мої зілля занадто сильні для тебе, мандрівник.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9118,10 +9366,34 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Мы выдвинулись для защиты главных ворот, когда Рамзи выскочил со своими людьми наперерез.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T160433Z" creationid="Gleban" creationdate="20221027T160433Z">
+        <seg>Ми вирушили допомагати захищати головні ворота, коли Рамзі вискочив зі своїми людьми і повністю відрізав нас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Мы доверимся тебе...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T155529Z" creationid="Gleban" creationdate="20221027T155529Z">
+        <seg>Ми довіримося тобі...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Мы должны вернуться!</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221025T081356Z" creationid="OmegaT Aligner" creationdate="20221025T081356Z">
         <seg>Ми повинні повернутись!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Мы должны идти дальше, ты справишься с этим?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T160633Z" creationid="Gleban" creationdate="20221027T160633Z">
+        <seg>Мусимо рушати далі, ти даси собі раду?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9378,6 +9650,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221021T173410Z" creationid="Gleban" creationdate="20221021T173410Z">
         <seg>Наарс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Навык добычи ресурсов увеличился!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T181041Z" creationid="Gleban" creationdate="20221027T181041Z">
+        <seg>Навички видобутоку ресурсів підвищилися!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9808,8 +10088,8 @@
       <tuv lang="ru-RU">
         <seg>Недостаточно очков обучения!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221023T090253Z" creationid="Gleban" creationdate="20221023T083821Z">
-        <seg>Недостатньо очків рівня!</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T182005Z" creationid="Gleban" creationdate="20221023T083821Z">
+        <seg>Недостатньо очків навчання!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9938,6 +10218,14 @@
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221023T141704Z" creationid="romas" creationdate="20221023T141704Z">
         <seg>Жоден ШУТ у короні не вказуватиме НАМ, гордим громадянам Архолосу, що робити!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Ни отмычки, ни ключа.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T181107Z" creationid="Gleban" creationdate="20221027T181107Z">
+        <seg>Ні відмички, ні належного ключа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10178,6 +10466,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
         <seg>Потрібний перезапуск гри!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Нужно проверить, какова ситуация в лагере...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T155017Z" creationid="Gleban" creationdate="20221027T155017Z">
+        <seg>Потрібно перевірити, яка ситуація в таборі...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10502,6 +10798,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Они слишком сильны для тебя.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T161911Z" creationid="Gleban" creationdate="20221027T161911Z">
+        <seg>Вони занадто сильні для тебе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Они хотят зарезать нас как овец!</seg>
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221023T140419Z" creationid="romas" creationdate="20221023T140419Z">
@@ -10530,6 +10834,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
         <seg>Досвід</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Опыт +</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T174755Z" creationid="Gleban" creationdate="20221027T174755Z">
+        <seg>Досвід +</seg>
       </tuv>
     </tu>
     <tu>
@@ -10670,6 +10982,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Отклонить</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T181417Z" creationid="Gleban" creationdate="20221027T181417Z">
+        <seg>Відхилити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Отлично – одной тварью меньше!</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221025T081356Z" creationid="OmegaT Aligner" creationdate="20221025T081356Z">
@@ -10690,6 +11010,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221021T165332Z" creationid="Gleban" creationdate="20221021T165332Z">
         <seg>Отмар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Отмычка сломалась.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T180101Z" creationid="Gleban" creationdate="20221027T180009Z">
+        <seg>Відмичка зламалась.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10760,16 +11088,16 @@
       <tuv lang="ru-RU">
         <seg>Очки обучения</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221023T084336Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
-        <seg>Очки рівня</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T182019Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Очки навчання</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Очки обучения +</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221023T084734Z" creationid="Gleban" creationdate="20221023T084734Z">
-        <seg>Очки рівня +</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T182026Z" creationid="Gleban" creationdate="20221023T084734Z">
+        <seg>Очки навчання +</seg>
       </tuv>
     </tu>
     <tu>
@@ -10982,10 +11310,18 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Повышение уровня!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T174902Z" creationid="Gleban" creationdate="20221027T174902Z">
+        <seg>Подвищення рівня!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Подкрадывание</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Підкрадування</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T182657Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Підкрадання</seg>
       </tuv>
     </tu>
     <tu>
@@ -11126,6 +11462,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Попробуем ещё раз.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T180111Z" creationid="Gleban" creationdate="20221027T175943Z">
+        <seg>Спробую знову.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>После смерти тебе всё равно не пригодится золото...</seg>
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221023T142630Z" creationid="romas" creationdate="20221023T142630Z">
@@ -11186,6 +11530,22 @@
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221023T170534Z" creationid="romas" creationdate="20221023T170534Z">
         <seg>Схоже, вони не такі добряки, як люблять говорити...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Похоже, телепорт не работает...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T154341Z" creationid="Gleban" creationdate="20221027T154341Z">
+        <seg>Схоже, телепорт не працює...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Похоже, я на верном пути.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T175821Z" creationid="Gleban" creationdate="20221027T175821Z">
+        <seg>Звучить добре.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11482,6 +11842,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221025T081356Z" creationid="OmegaT Aligner" creationdate="20221025T081356Z">
         <seg>Прикінчи свиню!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Принять</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T181143Z" creationid="Gleban" creationdate="20221027T181143Z">
+        <seg>Прийняти</seg>
       </tuv>
     </tu>
     <tu>
@@ -13126,6 +13494,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Слишком далеко</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T174906Z" creationid="Gleban" creationdate="20221027T174906Z">
+        <seg>Задалеко.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Слишком далеко.</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221023T102106Z" creationid="Gleban" creationdate="20221023T102106Z">
@@ -13542,6 +13918,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Спасибо за помощь, эти чёртовы предатели доставили нам немало хлопот...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T160206Z" creationid="Gleban" creationdate="20221027T160206Z">
+        <seg>Дякую за допомогу, ці кляті зрадники завдали нам чимало клопоту...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Спасибо за помощь.</seg>
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221023T142913Z" creationid="romas" creationdate="20221023T142913Z">
@@ -13666,6 +14050,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221025T081356Z" creationid="OmegaT Aligner" creationdate="20221025T081356Z">
         <seg>Вартові не зрадіють, якщо я витрачатиму час на розмови!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Странно...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T154150Z" creationid="Gleban" creationdate="20221027T153956Z">
+        <seg>Дивно...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13818,6 +14210,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221025T081846Z" creationid="OmegaT Aligner" creationdate="20221025T081356Z">
         <seg>Твої вчинки не сподобаються майстру Нотгеру!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Твои товары не представляют интереса.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T181135Z" creationid="Gleban" creationdate="20221027T181135Z">
+        <seg>Товар, який ви пропонуєте для обміну, недостатньо цінний.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14262,6 +14662,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Ты не справишься с моими зельями.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T161857Z" creationid="Gleban" creationdate="20221027T161857Z">
+        <seg>Ти не впораєшся з моїми зіллями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Ты оглох или как?!</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221025T081356Z" creationid="OmegaT Aligner" creationdate="20221025T081356Z">
@@ -14314,6 +14722,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221025T083107Z" creationid="OmegaT Aligner" creationdate="20221025T081356Z">
         <seg>Ти теж хочеш отримати громадянство?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Ты уверен?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T155355Z" creationid="Gleban" creationdate="20221027T155355Z">
+        <seg>Ти впевнений?</seg>
       </tuv>
     </tu>
     <tu>
@@ -15054,6 +15470,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Хватит этих игр, продавец зелий.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T161937Z" creationid="Gleban" creationdate="20221027T161550Z">
+        <seg>Алхіміку, досить цих ігор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Хевден</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221021T174452Z" creationid="OmegaT Aligner" creationdate="20221021T164945Z">
@@ -15106,6 +15530,14 @@
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221023T151727Z" creationid="romas" creationdate="20221023T151727Z">
         <seg>Хм...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Хммм... ничего не произошло.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T154950Z" creationid="Gleban" creationdate="20221027T154950Z">
+        <seg>Хммм... нічого не сталося.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15170,6 +15602,14 @@
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221023T143017Z" creationid="romas" creationdate="20221023T143017Z">
         <seg>Добре, я прийду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Хорошо...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T155400Z" creationid="Gleban" creationdate="20221027T155400Z">
+        <seg>Добре...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15334,6 +15774,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Что здесь произошло?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T160219Z" creationid="Gleban" creationdate="20221027T160219Z">
+        <seg>Що тут сталося?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Что планирует губернатор?</seg>
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221023T141109Z" creationid="romas" creationdate="20221023T141109Z">
@@ -15402,6 +15850,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
         <seg>Чума комах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Чёрт ...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T175917Z" creationid="Gleban" creationdate="20221027T175917Z">
+        <seg>Холера...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15790,6 +16246,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Это оружие нельзя использовать.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T180943Z" creationid="Gleban" creationdate="20221027T180943Z">
+        <seg>Цю зброю неможливо спорядити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Это позор, я едва могу добыть достаточно золота, чтобы выжить здесь, не говоря уже о том, чтобы что-то заработать.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221025T081356Z" creationid="OmegaT Aligner" creationdate="20221025T081356Z">
@@ -15910,6 +16374,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Я должен идти по следам...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T154122Z" creationid="Gleban" creationdate="20221027T154052Z">
+        <seg>Я повинен йти по сліду...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Я должен прийти сюда вечером.</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221019T090347Z" creationid="Gleban" creationdate="20221019T075351Z">
@@ -15986,6 +16458,14 @@
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221023T151652Z" creationid="romas" creationdate="20221023T151652Z">
         <seg>Я та мої друзі доглянемо за тобою!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Я иду в бой и мне нужны твои самые сильные зелья.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T161628Z" creationid="Gleban" creationdate="20221027T161324Z">
+        <seg>Я вирушаю в дорогу, і мені потрібні твої найсильніші зілля.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16150,6 +16630,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Я умоляю тебя, пусть этот кошмар закончится...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T155853Z" creationid="Gleban" creationdate="20221027T155853Z">
+        <seg>Я благаю тебе, нехай цей кошмар закінчиться...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Я хочу изучить его конструкцию, чтобы потом выковать.</seg>
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221023T142809Z" creationid="romas" creationdate="20221023T142809Z">
@@ -16240,8 +16728,8 @@
       <tuv lang="ru-RU">
         <seg>Ящик</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221021T175807Z" creationid="Gleban" creationdate="20221021T175807Z">
-        <seg>Ящик</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T174343Z" creationid="Gleban" creationdate="20221021T175807Z">
+        <seg>Коробка</seg>
       </tuv>
     </tu>
     <tu>
@@ -16318,6 +16806,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>ед.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T180402Z" creationid="Gleban" creationdate="20221027T180402Z">
+        <seg>од.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>желая одним эффективным ударом предотвратить захват чрезвычайно важных островов Восточного архипелага.</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221014T175857Z" creationid="Admin" creationdate="20221014T175857Z">
@@ -16330,6 +16826,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221022T202243Z" creationid="Gleban" creationdate="20221022T202243Z">
         <seg>здоров'я</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>здоровья не хватает.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T180419Z" creationid="Gleban" creationdate="20221027T180419Z">
+        <seg>здоров'я не вистачає.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16374,6 +16878,22 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>ловкости не хватает.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T180505Z" creationid="Gleban" creationdate="20221027T180505Z">
+        <seg>спритності не вистачає.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>макс.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T180425Z" creationid="Gleban" creationdate="20221027T180425Z">
+        <seg>макс.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>мане:</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221022T202255Z" creationid="Gleban" creationdate="20221022T202255Z">
@@ -16386,6 +16906,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221022T202453Z" creationid="Gleban" creationdate="20221022T202453Z">
         <seg>мани:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>маны не хватает.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T180438Z" creationid="Gleban" creationdate="20221027T180438Z">
+        <seg>мани не вистачає.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16448,8 +16976,8 @@
       <tuv lang="ru-RU">
         <seg>обучения</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221023T084109Z" creationid="Gleban" creationdate="20221023T084109Z">
-        <seg>рівня</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T182039Z" creationid="Gleban" creationdate="20221023T084109Z">
+        <seg>навчання</seg>
       </tuv>
     </tu>
     <tu>
@@ -16594,6 +17122,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
         <seg>витрата мани:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>силы не хватает.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221027T180455Z" creationid="Gleban" creationdate="20221027T180455Z">
+        <seg>сили не вистачає.</seg>
       </tuv>
     </tu>
     <tu>
