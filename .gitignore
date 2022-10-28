@@ -5,6 +5,8 @@ ArcholosOmegaT/dictionary/
 ArcholosOmegaT/omegat/
 ArcholosOmegaT/source/
 ArcholosOmegaT/target/
+ArcholosOmegaT/tm/
+ArcholosOmegaT/tm/auto/
 
 # don't work with omegat.project
 ArcholosOmegaT/omegat.project
@@ -13,8 +15,6 @@ project_stats.txt
 project_save.tmx.*.bak
 
 !ArcholosOmegaT/glossary/
-!ArcholosOmegaT/tm/*.tmx
-!ArcholosOmegaT/tm/auto/*.tmx
 !glossary.txt
 !project_save.tmx
 !filters.xml
