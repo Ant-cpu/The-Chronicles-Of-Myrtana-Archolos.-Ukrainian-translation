@@ -1,0 +1,21 @@
+*.tmx
+*.bak
+ArcholosOmegaT/*.*
+ArcholosOmegaT/dictionary/
+ArcholosOmegaT/omegat/
+ArcholosOmegaT/source/
+ArcholosOmegaT/target/
+ArcholosOmegaT/tm/
+ArcholosOmegaT/tm/auto/
+
+# don't work with omegat.project
+ArcholosOmegaT/omegat.project
+last_entry.properties
+project_stats.txt
+project_save.tmx.*.bak
+
+!ArcholosOmegaT/glossary/
+!glossary.txt
+!project_save.tmx
+!filters.xml
+!segmentation.conf
