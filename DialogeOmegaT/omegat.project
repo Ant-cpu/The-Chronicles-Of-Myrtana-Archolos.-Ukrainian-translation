@@ -19,9 +19,9 @@
         <glossary_dir>__DEFAULT__</glossary_dir>
         <glossary_file>__DEFAULT__</glossary_file>
         <dictionary_dir>__DEFAULT__</dictionary_dir>
-        <source_lang>ru-RU</source_lang>
+        <source_lang>pl</source_lang>
         <target_lang>uk</target_lang>
-        <source_tok>org.omegat.tokenizer.LuceneRussianTokenizer</source_tok>
+        <source_tok>org.omegat.tokenizer.LucenePolishTokenizer</source_tok>
         <target_tok>org.omegat.tokenizer.DefaultTokenizer</target_tok>
         <sentence_seg>false</sentence_seg>
         <support_default_translations>true</support_default_translations>
