@@ -1600,8 +1600,8 @@
       <tuv lang="ru-RU">
         <seg>(Украсть его кошелёк будет чертовски трудно)</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221027T175416Z" creationid="Gleban" creationdate="20221027T175416Z">
-        <seg>(Вкрасти його гаманець буде в біса важко)</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T185914Z" creationid="Gleban" creationdate="20221027T175416Z">
+        <seg>(Вкрасти його гаманець буде до біса важко)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1640,8 +1640,8 @@
       <tuv lang="ru-RU">
         <seg>(Украсть её кошелёк будет чертовски трудно)</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221027T175637Z" creationid="Gleban" creationdate="20221027T175637Z">
-        <seg>(Вкрасти її гаманець буде в біса важко)</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T185932Z" creationid="Gleban" creationdate="20221027T175637Z">
+        <seg>(Вкрасти її гаманець буде до біса важко)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3224,8 +3224,8 @@
       <tuv lang="ru-RU">
         <seg>Армия тьмы</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Армія темряви</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T110308Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Армія Темряви</seg>
       </tuv>
     </tu>
     <tu>
@@ -3298,6 +3298,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
         <seg>Атака вліво</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Атака вправо</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T184332Z" creationid="Gleban" creationdate="20221116T184332Z">
+        <seg>Атака вправо</seg>
       </tuv>
     </tu>
     <tu>
@@ -3552,8 +3560,8 @@
       <tuv lang="ru-RU">
         <seg>Большая огненная буря</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Велика вогненна буря</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T104830Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Велика Вогняна Буря</seg>
       </tuv>
     </tu>
     <tu>
@@ -3592,8 +3600,8 @@
       <tuv lang="ru-RU">
         <seg>Большой огненный шар</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Велика вогненна куля</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T132850Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Велика Вогняна Куля</seg>
       </tuv>
     </tu>
     <tu>
@@ -4144,7 +4152,7 @@
       <tuv lang="ru-RU">
         <seg>Взлом замков</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T182956Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
         <seg>Зламування замків</seg>
       </tuv>
     </tu>
@@ -4408,8 +4416,8 @@
       <tuv lang="ru-RU">
         <seg>Волна смерти</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Хвиля смерті</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T110311Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Хвиля Смерті</seg>
       </tuv>
     </tu>
     <tu>
@@ -5006,6 +5014,22 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Гарпия</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T114910Z" creationid="Gleban" creationdate="20221114T114910Z">
+        <seg>Гарпія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Гарпия Алисы</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T114922Z" creationid="Gleban" creationdate="20221114T114922Z">
+        <seg>Гарпія Аліси</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Гарри</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221021T171231Z" creationid="Gleban" creationdate="20221021T171231Z">
@@ -5142,6 +5166,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Гигантская крыса</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T114810Z" creationid="Gleban" creationdate="20221114T114810Z">
+        <seg>Гігантський Щур</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Гильдия торговцев.</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221025T110628Z" creationid="Gleban" creationdate="20221025T110628Z">
@@ -5206,6 +5238,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Голодный шныг</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T114859Z" creationid="Gleban" creationdate="20221114T114859Z">
+        <seg>Голодний Луркер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Гомер</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221021T172145Z" creationid="Gleban" creationdate="20221021T172145Z">
@@ -5232,8 +5272,8 @@
       <tuv lang="ru-RU">
         <seg>Городской стражник</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Міський наглядач</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T183216Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Міський вартовий</seg>
       </tuv>
     </tu>
     <tu>
@@ -5280,8 +5320,8 @@
       <tuv lang="ru-RU">
         <seg>Гражданин</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Громадянин</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T183402Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Горожанин</seg>
       </tuv>
     </tu>
     <tu>
@@ -5362,6 +5402,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221021T171430Z" creationid="Gleban" creationdate="20221021T171430Z">
         <seg>Грон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Грязевая черепаха</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T114723Z" creationid="Gleban" creationdate="20221114T114723Z">
+        <seg>Болотна Черепаха</seg>
       </tuv>
     </tu>
     <tu>
@@ -5960,8 +6008,8 @@
       <tuv lang="ru-RU">
         <seg>Добыча рога мракориса</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221023T093326Z" creationid="Gleban" creationdate="20221023T092840Z">
-        <seg>Вилучення рогів у мракорисів</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T185540Z" creationid="Gleban" creationdate="20221023T092840Z">
+        <seg>Вилучення рогів мракорисів</seg>
       </tuv>
     </tu>
     <tu>
@@ -6104,16 +6152,16 @@
       <tuv lang="ru-RU">
         <seg>Дробящий урон</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T201301Z" creationid="Gleban" creationdate="20221022T201301Z">
-        <seg>Тупі пошкодження</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T184728Z" creationid="Gleban" creationdate="20221022T201301Z">
+        <seg>Тупі ушкодження</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Дробящий урон:</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T201403Z" creationid="Gleban" creationdate="20221022T201403Z">
-        <seg>Тупі пошкодження:</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T185010Z" creationid="Gleban" creationdate="20221022T201403Z">
+        <seg>Тупі ушкодження:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6144,8 +6192,8 @@
       <tuv lang="ru-RU">
         <seg>Дыхание смерти</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Подих смерті</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T110316Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Подих Смерті</seg>
       </tuv>
     </tu>
     <tu>
@@ -6984,8 +7032,8 @@
       <tuv lang="ru-RU">
         <seg>Изгнание зла</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Вигнання зла</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T182125Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Вигнання Зла</seg>
       </tuv>
     </tu>
     <tu>
@@ -7000,56 +7048,56 @@
       <tuv lang="ru-RU">
         <seg>Изготовлено:</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221027T181610Z" creationid="Gleban" creationdate="20221027T181610Z">
-        <seg>Вироблено:</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T190700Z" creationid="Gleban" creationdate="20221027T181610Z">
+        <seg>Виготовлено:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Изучено: 1-й круг магии</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221023T084922Z" creationid="Gleban" creationdate="20221023T084833Z">
-        <seg>Вивчено: перше коло магії</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T190402Z" creationid="Gleban" creationdate="20221023T084833Z">
+        <seg>Вивчено: Перше Коло Магії</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Изучено: 2-й круг магии</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221023T084916Z" creationid="Gleban" creationdate="20221023T084839Z">
-        <seg>Вивчено: друге коло магії</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T190414Z" creationid="Gleban" creationdate="20221023T084839Z">
+        <seg>Вивчено: Друге Коло Магії</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Изучено: 3-й круг магии</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221023T084909Z" creationid="Gleban" creationdate="20221023T084909Z">
-        <seg>Вивчено: третє коло магії</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T190421Z" creationid="Gleban" creationdate="20221023T084909Z">
+        <seg>Вивчено: Третє Коло Магії</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Изучено: 4-й круг магии</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221023T084946Z" creationid="Gleban" creationdate="20221023T084946Z">
-        <seg>Вивчено: четверте коло магії</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T190429Z" creationid="Gleban" creationdate="20221023T084946Z">
+        <seg>Вивчено: Четверте Коло Магії</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Изучено: 5-й круг магии</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221023T084957Z" creationid="Gleban" creationdate="20221023T084957Z">
-        <seg>Вивчено: п'яте коло магії</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T190435Z" creationid="Gleban" creationdate="20221023T084957Z">
+        <seg>Вивчено: П'яте Коло Магії</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Изучено: 6-й круг магии</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221023T085007Z" creationid="Gleban" creationdate="20221023T085007Z">
-        <seg>Вивчено: шосте коло магії</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T190442Z" creationid="Gleban" creationdate="20221023T085007Z">
+        <seg>Вивчено: Шосте Коло Магії</seg>
       </tuv>
     </tu>
     <tu>
@@ -8150,10 +8198,18 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Краб</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T114940Z" creationid="Gleban" creationdate="20221114T114940Z">
+        <seg>Краб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Кража энергии</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Крадіжка енергії</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T113912Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Викрадення Енергії</seg>
       </tuv>
     </tu>
     <tu>
@@ -8272,8 +8328,8 @@
       <tuv lang="ru-RU">
         <seg>Кругов магии не хватает для использования этой руны.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221027T180811Z" creationid="Gleban" creationdate="20221027T180811Z">
-        <seg>Занадто низьке коло магії, щоб використовувати цю руну.</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T190513Z" creationid="Gleban" creationdate="20221027T180811Z">
+        <seg>Кіл Магії недостатню, щоб використовувати цю руну.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8344,16 +8400,16 @@
       <tuv lang="ru-RU">
         <seg>Кулак ветра</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Кулак вітру</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T110042Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Кулак Вітру</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Кулак воды</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Кулак води</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T112429Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Кулак Води</seg>
       </tuv>
     </tu>
     <tu>
@@ -8520,32 +8576,32 @@
       <tuv lang="ru-RU">
         <seg>Ледяная волна</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Крижана хвиля</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T105232Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Крижана Хвиля</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Ледяная стрела</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Крижана стріла</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T115521Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Крижана Стріла</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Ледяное копье</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Крижаний спис</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T112439Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Крижаний Спис</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Ледяной блок</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Крижаний блок</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T120713Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Крижана Брила</seg>
       </tuv>
     </tu>
     <tu>
@@ -8592,32 +8648,32 @@
       <tuv lang="ru-RU">
         <seg>Лесной падальщик</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T195645Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Лісовий падальник</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T183417Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Лісовий Падальник</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Лечение лёгких ранений</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Лікування легких поранених</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T182739Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Лікування Легких Поранень</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Лечение средних ранений</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Лікування середніх поранень</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T182750Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Лікування Середніх Поранень</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Лечение тяжёлых ранений</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Лікування тяжких поранень</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T182819Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Лікування Важких Поранень</seg>
       </tuv>
     </tu>
     <tu>
@@ -8944,24 +9000,24 @@
       <tuv lang="ru-RU">
         <seg>Максимальный урон:</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T200641Z" creationid="Gleban" creationdate="20221022T200454Z">
-        <seg>Максимальна шкода:</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T184155Z" creationid="Gleban" creationdate="20221022T200454Z">
+        <seg>Максимальні ушкодження:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Малая молния</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Мала блискавка</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T110023Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Мала Блискавка</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Малая огненная буря</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Мала вогненна буря</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T104813Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Мала Вогняна Буря</seg>
       </tuv>
     </tu>
     <tu>
@@ -8976,8 +9032,8 @@
       <tuv lang="ru-RU">
         <seg>Малое исцеление</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Мале зцілення</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T182116Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Мале Зцілення</seg>
       </tuv>
     </tu>
     <tu>
@@ -9168,8 +9224,8 @@
       <tuv lang="ru-RU">
         <seg>Минимальный урон:</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T202725Z" creationid="Gleban" creationdate="20221022T202725Z">
-        <seg>Мінімальна шкода:</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T184302Z" creationid="Gleban" creationdate="20221022T202725Z">
+        <seg>Мінімальні ушкодження:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9454,10 +9510,34 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Молодая гигантская крыса</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T114815Z" creationid="Gleban" creationdate="20221114T114815Z">
+        <seg>Молодий Гігантський Щур</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Молодая чёрная крыса</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T114834Z" creationid="Gleban" creationdate="20221114T114834Z">
+        <seg>Молодий Чорний Щур</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Молодец, так держать!</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221025T081356Z" creationid="OmegaT Aligner" creationdate="20221025T081356Z">
         <seg>Молодець, так тримати!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Молодой мракорис</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T114745Z" creationid="Gleban" creationdate="20221114T114745Z">
+        <seg>Молодий Мракорис</seg>
       </tuv>
     </tu>
     <tu>
@@ -9494,10 +9574,26 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Морской шныг</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T114905Z" creationid="Gleban" creationdate="20221114T114905Z">
+        <seg>Морський Луркер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Морти</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T164945Z" creationid="OmegaT Aligner" creationdate="20221021T164945Z">
         <seg>Морті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Мракорис</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T114733Z" creationid="Gleban" creationdate="20221114T114733Z">
+        <seg>Мракорис</seg>
       </tuv>
     </tu>
     <tu>
@@ -10824,32 +10920,32 @@
       <tuv lang="ru-RU">
         <seg>Огненная волна</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Вогняна хвиля</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T181353Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Вогняна Хвиля</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Огненная стрела</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Вогняна стріла</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T115514Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Вогняна Стріла</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Огненный дождь</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Вогняний дощ</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T110128Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Вогняний Дощ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Огненный шар</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Вогненна куля</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T120118Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Вогняна Куля</seg>
       </tuv>
     </tu>
     <tu>
@@ -11606,6 +11702,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Ползун</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T114935Z" creationid="Gleban" creationdate="20221114T114935Z">
+        <seg>Повзун</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Полуторный рудный меч</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221023T081022Z" creationid="Gleban" creationdate="20221023T075351Z">
@@ -11848,104 +11952,104 @@
       <tuv lang="ru-RU">
         <seg>Превращение в варга</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Перетворення у варга</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T110824Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Перетворення у Варга</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Превращение в волка</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Перетворення у вовка</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T110746Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Перетворення у Вовка</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Превращение в гигантскую крысу</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Перетворення в гігантського щура</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T110732Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Перетворення в Гігантського Щура</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Превращение в драконьего снеппера</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Перетворення в драконячого снепера</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T110858Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Перетворення в Драконячого Снеппера</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Превращение в мракориса</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Перетворення в мракориса</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T110847Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Перетворення в Мракориса</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Превращение в мясного жука</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Перетворення в м'ясного жука</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T110908Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Перетворення в М'ясного Жука</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Превращение в овцу</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Перетворення у вівцю</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T110711Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Перетворення у Вівцю</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Превращение в огненного ящера</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Перетворення у вогняного ящера</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T110830Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Перетворення у Вогняного Ящера</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Превращение в падальщика</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Перетворення в падальника</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T110724Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Перетворення в Падальника</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Превращение в полевого хищника</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Перетворення в польового хижака</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T110737Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Перетворення в Польового Хижака</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Превращение в снеппера</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Перетворення в снепера</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T132759Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Перетворення в Снеппера</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Превращение в шныга</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Перетворення в шнига</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T110839Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Перетворення в Луркера</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Превращение в ящера</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Перетворення в ящера</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T110749Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Перетворення в Ящера</seg>
       </tuv>
     </tu>
     <tu>
@@ -11982,90 +12086,98 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Призванный демон</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T133718Z" creationid="Gleban" creationdate="20221116T133718Z">
+        <seg>Викликаний Демон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Призванный зомби</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Виклик зомбі</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T133635Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Викликаний Зомбі</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Призыв волка</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T202743Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Виклик вовка</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T110027Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Виклик Вовка</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Призыв голема</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T202758Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Виклик голема</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T132834Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Створення Голема</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Призыв грязевой черепахи</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T193135Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Виклик болотної черепахи</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T115406Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Виклик Болотної Черепахи</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Призыв демона</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T202806Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Виклик демона</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T105245Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Виклик Демона</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Призыв зомби</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T192939Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Виклик зомбі</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T133439Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Створення Зомбі</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Призыв медведя</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T193303Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Виклик ведмедя</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T115913Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Виклик Ведмедя</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Призыв скелета</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T202748Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Виклик скелета</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T120340Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Створення Скелета</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Призыв скелета гоблина</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T202732Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Виклик скелета гобліна</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T120106Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Створення Скелета Гобліна</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Призыв снеппера</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T202903Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Виклик снеппера</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T115904Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Виклик Снеппера</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Призыв стража</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T192553Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Виклик вартового</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T133908Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Створення Стража</seg>
       </tuv>
     </tu>
     <tu>
@@ -12464,16 +12576,16 @@
       <tuv lang="ru-RU">
         <seg>Режущий урон</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T201314Z" creationid="Gleban" creationdate="20221022T201106Z">
-        <seg>Ріжучі пошкодження</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T184724Z" creationid="Gleban" creationdate="20221022T201106Z">
+        <seg>Ріжучі ушкодження</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Режущий урон:</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T201400Z" creationid="Gleban" creationdate="20221022T201400Z">
-        <seg>Ріжучі пошкодження:</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T185006Z" creationid="Gleban" creationdate="20221022T201400Z">
+        <seg>Ріжучі ушкодження:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13128,8 +13240,8 @@
       <tuv lang="ru-RU">
         <seg>Рой насекомых</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T191821Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Рій комах</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T134105Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Комашиний Рій</seg>
       </tuv>
     </tu>
     <tu>
@@ -13520,16 +13632,16 @@
       <tuv lang="ru-RU">
         <seg>Святая волна</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Свята хвиля</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T120014Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Свята Хвиля</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Святая стрела</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Свята стріла</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T182119Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Свята Стріла</seg>
       </tuv>
     </tu>
     <tu>
@@ -13544,16 +13656,16 @@
       <tuv lang="ru-RU">
         <seg>Святой свет</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Святе світло</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T181915Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Святе Світло</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Святой удар</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Святий удар</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T111708Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Святий Удар</seg>
       </tuv>
     </tu>
     <tu>
@@ -13648,8 +13760,8 @@
       <tuv lang="ru-RU">
         <seg>Сильное исцеление</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Сильне зцілення</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T182128Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Сильне Зцілення</seg>
       </tuv>
     </tu>
     <tu>
@@ -14200,8 +14312,8 @@
       <tuv lang="ru-RU">
         <seg>Среднее исцеление</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Середнє зцілення</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T182122Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Середнє Зцілення</seg>
       </tuv>
     </tu>
     <tu>
@@ -14214,10 +14326,18 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Старый шныг</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T114847Z" creationid="Gleban" creationdate="20221114T114847Z">
+        <seg>Старий Луркер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Стена воды</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Стіна води</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T113002Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Стіна Води</seg>
       </tuv>
     </tu>
     <tu>
@@ -15192,8 +15312,8 @@
       <tuv lang="ru-RU">
         <seg>Увеличение монстра</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Збільшення монстра</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T181349Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Збільшення Монстра</seg>
       </tuv>
     </tu>
     <tu>
@@ -15312,8 +15432,8 @@
       <tuv lang="ru-RU">
         <seg>Уменьшение монстра</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Зменшення монстра</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T110708Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Зменшення Монстра</seg>
       </tuv>
     </tu>
     <tu>
@@ -15344,16 +15464,16 @@
       <tuv lang="ru-RU">
         <seg>Уничтожение зла</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Знищення зла</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T182132Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Знищення Зла</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Уничтожение нежити</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Знищення нечисті</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T104942Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Знищення Нечисті</seg>
       </tuv>
     </tu>
     <tu>
@@ -15408,88 +15528,88 @@
       <tuv lang="ru-RU">
         <seg>Урон</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T200649Z" creationid="Gleban" creationdate="20221022T200451Z">
-        <seg>Шкода</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T184147Z" creationid="Gleban" creationdate="20221022T200451Z">
+        <seg>Ушкодження</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Урон в секунду</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T200743Z" creationid="Gleban" creationdate="20221022T200743Z">
-        <seg>Шкода в секунду</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T184227Z" creationid="Gleban" creationdate="20221022T200743Z">
+        <seg>Ушкоджень в секунду</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Урон неизвестен</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T201354Z" creationid="Gleban" creationdate="20221022T201354Z">
-        <seg>Пошкодження невідомі</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T184954Z" creationid="Gleban" creationdate="20221022T201354Z">
+        <seg>Невідомі ушкодження</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Урон от ветра</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T200706Z" creationid="Gleban" creationdate="20221022T200444Z">
-        <seg>Шкода від вітру</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T184143Z" creationid="Gleban" creationdate="20221022T200444Z">
+        <seg>Ушкодження від вітру</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Урон от магии</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T200702Z" creationid="Gleban" creationdate="20221022T200439Z">
-        <seg>Шкода від магії</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T184140Z" creationid="Gleban" creationdate="20221022T200439Z">
+        <seg>Ушкодження від магії</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Урон от магии:</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T201410Z" creationid="Gleban" creationdate="20221022T201410Z">
-        <seg>Шкода від магії:</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T184246Z" creationid="Gleban" creationdate="20221022T201410Z">
+        <seg>Ушкодження від магії:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Урон от огня</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T200659Z" creationid="Gleban" creationdate="20221022T200431Z">
-        <seg>Шкода від вогню</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T184136Z" creationid="Gleban" creationdate="20221022T200431Z">
+        <seg>Ушкодження від вогню</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Урон от огня:</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T201407Z" creationid="Gleban" creationdate="20221022T201407Z">
-        <seg>Шкода від вогню:</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T184240Z" creationid="Gleban" creationdate="20221022T201407Z">
+        <seg>Ушкодження від вогню:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Урон от оружия</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T200713Z" creationid="Gleban" creationdate="20221022T200419Z">
-        <seg>Шкода від зброї</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T184042Z" creationid="Gleban" creationdate="20221022T200419Z">
+        <seg>Ушкодження від зброї</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Урон от стрел</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T200656Z" creationid="Gleban" creationdate="20221022T200426Z">
-        <seg>Шкода від стріл</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T184133Z" creationid="Gleban" creationdate="20221022T200426Z">
+        <seg>Ушкодження від стріл</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Урон от стрел:</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T201405Z" creationid="Gleban" creationdate="20221022T201405Z">
-        <seg>Шкода від стріл:</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T184237Z" creationid="Gleban" creationdate="20221022T201405Z">
+        <seg>Ушкодження від стріл:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16176,8 +16296,24 @@
       <tuv lang="ru-RU">
         <seg>Чума насекомых</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Чума комах</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T134047Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Комашина Чума</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Чёрная гарпия</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T114932Z" creationid="Gleban" creationdate="20221114T114932Z">
+        <seg>Чорна Гарпія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Чёрная крыса</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T114824Z" creationid="Gleban" creationdate="20221114T114824Z">
+        <seg>Чорний Щур</seg>
       </tuv>
     </tu>
     <tu>
@@ -16248,8 +16384,16 @@
       <tuv lang="ru-RU">
         <seg>Шаровая молния</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Кульова блискавка</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T110106Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Кульова Блискавка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Шныг</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20221114T114838Z" creationid="Gleban" creationdate="20221114T114838Z">
+        <seg>Луркер</seg>
       </tuv>
     </tu>
     <tu>
@@ -16648,8 +16792,8 @@
       <tuv lang="ru-RU">
         <seg>Эффект эха</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
-        <seg>Ефект луна</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T184623Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>Ефект відлуння</seg>
       </tuv>
     </tu>
     <tu>
@@ -17368,8 +17512,8 @@
       <tuv lang="ru-RU">
         <seg>обучения,</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221023T084119Z" creationid="Gleban" creationdate="20221023T083816Z">
-        <seg>рівня,</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T185427Z" creationid="Gleban" creationdate="20221023T083816Z">
+        <seg>навчання,</seg>
       </tuv>
     </tu>
     <tu>
@@ -17544,16 +17688,16 @@
       <tuv lang="ru-RU">
         <seg>урон</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221023T073247Z" creationid="Gleban" creationdate="20221023T073247Z">
-        <seg>шкоду</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T185316Z" creationid="Gleban" creationdate="20221023T073247Z">
+        <seg>ушкодження</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>урон:</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
-        <seg>шкода:</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20221116T184311Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
+        <seg>ушкодження:</seg>
       </tuv>
     </tu>
     <tu>
