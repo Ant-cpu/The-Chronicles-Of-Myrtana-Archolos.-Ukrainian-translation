@@ -3342,6 +3342,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Аустерия Эрнесто – Постоялый двор</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T191613Z" creationid="Anton" creationdate="20221117T191613Z">
+        <seg>Готель "Аустерія Ернесто"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>БОЕВЫЕ НАВЫКИ</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
@@ -3918,10 +3926,26 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>В Старый город</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223614Z" creationid="Anton" creationdate="20221117T223614Z">
+        <seg>До Старого міста</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>В Убежище моряка.</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221025T104046Z" creationid="Gleban" creationdate="20221025T104046Z">
         <seg>До Притулку моряка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>В город</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T222450Z" creationid="Anton" creationdate="20221117T222450Z">
+        <seg>До міста</seg>
       </tuv>
     </tu>
     <tu>
@@ -3950,6 +3974,22 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>В изгнании – Мастерская лучника</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T192607Z" creationid="Anton" creationdate="20221117T192607Z">
+        <seg>Майстерня лучника "У вигнанні"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>В квартал ремесленников</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223559Z" creationid="Anton" creationdate="20221117T223559Z">
+        <seg>До району ремісників</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>В книге описаны все секреты боевого мастерства Сынов Волка Вардхала...</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221018T132050Z" creationid="Admin" creationdate="20221018T132050Z">
@@ -3962,6 +4002,22 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221025T082930Z" creationid="OmegaT Aligner" creationdate="20221025T081356Z">
         <seg>Зрештою, ви, біженці, не такі вже й безкорисні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>В крепость</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T222459Z" creationid="Anton" creationdate="20221117T222459Z">
+        <seg>До фортеці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>В лагерь пчеловодов</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T222554Z" creationid="Anton" creationdate="20221117T222554Z">
+        <seg>До табору бджолярів</seg>
       </tuv>
     </tu>
     <tu>
@@ -4182,6 +4238,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Великая война – Мастерская бронника</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T185119Z" creationid="Anton" creationdate="20221117T181717Z">
+        <seg>Майстерня зброяра "Велика Війна"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Венцель</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221021T165408Z" creationid="Gleban" creationdate="20221021T165408Z">
@@ -4210,6 +4274,14 @@
       </tuv>
       <tuv lang="uk" changeid="Anton" changedate="20221027T161513Z" creationid="Anton" creationdate="20221027T161513Z">
         <seg>Верстак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Верфь, рыбный рынок</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224011Z" creationid="Anton" creationdate="20221117T223908Z">
+        <seg>Верф, рибний ринок</seg>
       </tuv>
     </tu>
     <tu>
@@ -4414,6 +4486,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Внимание!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224815Z" creationid="Anton" creationdate="20221117T224815Z">
+        <seg>Увага!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Внутри вы найдёте стражников, они о вас позаботятся.</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221027T155343Z" creationid="Gleban" creationdate="20221027T155343Z">
@@ -4510,6 +4590,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Война стихий – Цирюльник</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T222314Z" creationid="Anton" creationdate="20221117T222314Z">
+        <seg>Цирульня "Війна стихій"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Война?</seg>
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221023T141553Z" creationid="romas" creationdate="20221023T141553Z">
@@ -4594,6 +4682,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221022T202225Z" creationid="Gleban" creationdate="20221022T202225Z">
         <seg>Відновлення  мани:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Восточные ворота</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224743Z" creationid="Anton" creationdate="20221117T224743Z">
+        <seg>Східні ворота</seg>
       </tuv>
     </tu>
     <tu>
@@ -4734,6 +4830,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Время решений – Контора</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T180725Z" creationid="Anton" creationdate="20221117T180635Z">
+        <seg>Офіс "Час рішень"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Время:</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
@@ -4830,10 +4934,50 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Вход в канализацию</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224316Z" creationid="Anton" creationdate="20221117T224316Z">
+        <seg>Вхід в каналізацію</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Вы ищете работу?</seg>
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221025T123223Z" creationid="romas" creationdate="20221025T123223Z">
         <seg>Ви шукаєте роботу?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Вы не можете держать факел во время боя!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T173556Z" creationid="Anton" creationdate="20221117T173556Z">
+        <seg>Ви не можете тримати смолоскип під час бою!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Вы не можете держать факел во время разговора!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T174604Z" creationid="Anton" creationdate="20221117T174604Z">
+        <seg>Ви не можете тримати смолоскип під час розмови!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Вы не можете сейчас держать факел!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T173620Z" creationid="Anton" creationdate="20221117T173620Z">
+        <seg>Ви не можете зараз тримати смолоскип!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Вы не можете сейчас погасить факел!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T173526Z" creationid="Anton" creationdate="20221117T173526Z">
+        <seg>Ви не можете загасити смолоскип зараз!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4942,6 +5086,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Вы уже держите что-то другое в левой руке!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T173547Z" creationid="Anton" creationdate="20221117T173547Z">
+        <seg>Ви вже тримаєте щось інше в лівій руці!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Вы узнаете обо всём этом из последней брошюры!</seg>
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221023T141207Z" creationid="romas" creationdate="20221023T141207Z">
@@ -4994,6 +5146,14 @@
       </tuv>
       <tuv lang="uk" changeid="Anton" changedate="20221024T153524Z" creationid="Anton" creationdate="20221024T153524Z">
         <seg>Ви відчуваєте себе ослабленим і дезорієнтованим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Вы чувствуете, как сила наполняет ваше тело!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T180009Z" creationid="Anton" creationdate="20221117T180009Z">
+        <seg>Ви відчуваєте, як міць наповнює ваше тіло!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5234,6 +5394,38 @@
       </tuv>
       <tuv lang="uk" changeid="Anton" changedate="20221027T160821Z" creationid="Anton" creationdate="20221027T160821Z">
         <seg>Зробити весло</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Выход в город – Гильдия торговцев</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224710Z" creationid="Anton" creationdate="20221117T224415Z">
+        <seg>Вихід до міста – Гільдія Купців</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Выход в город – Квартал ремесленников</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224652Z" creationid="Anton" creationdate="20221117T224652Z">
+        <seg>Вихід до міста – Район Ремісників</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Выход в город – Порт</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224729Z" creationid="Anton" creationdate="20221117T224729Z">
+        <seg>Вихід до міста - Гавань </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Выход в город – Рыночная площадь</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224447Z" creationid="Anton" creationdate="20221117T224447Z">
+        <seg>Вихід до міста – Ринкова площа</seg>
       </tuv>
     </tu>
     <tu>
@@ -5542,6 +5734,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Городские казармы, Старый город</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223647Z" creationid="Anton" creationdate="20221117T223647Z">
+        <seg>Міські казарми, Старе місто</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Городской стражник</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
@@ -5650,6 +5850,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T164945Z" creationid="OmegaT Aligner" creationdate="20221021T164945Z">
         <seg>Гриф</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Гробница</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T174858Z" creationid="Anton" creationdate="20221117T174858Z">
+        <seg>Гробниця</seg>
       </tuv>
     </tu>
     <tu>
@@ -6478,10 +6686,34 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Долина золота – Ювелирная мастерская</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T185106Z" creationid="Anton" creationdate="20221117T185106Z">
+        <seg>Майстерня ювеліра "Долина золота"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Долина рассвета – Всё для дома</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T191703Z" creationid="Anton" creationdate="20221117T191703Z">
+        <seg>Меблевий магазин "Долина світанку"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Доложи ему!</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221025T081356Z" creationid="OmegaT Aligner" creationdate="20221025T081356Z">
         <seg>Доповіси йому!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Дом Локвара</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T222329Z" creationid="Anton" creationdate="20221117T222329Z">
+        <seg>Будинок Локвара</seg>
       </tuv>
     </tu>
     <tu>
@@ -6962,6 +7194,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221027T175845Z" creationid="Gleban" creationdate="20221027T175845Z">
         <seg>Замок відкрито.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Западные ворота</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224747Z" creationid="Anton" creationdate="20221117T224747Z">
+        <seg>Західні ворота</seg>
       </tuv>
     </tu>
     <tu>
@@ -7482,6 +7722,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T164945Z" creationid="OmegaT Aligner" creationdate="20221021T164945Z">
         <seg>Гієрро</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Из жизни вора – Мастерская плотника</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T184845Z" creationid="Anton" creationdate="20221117T182626Z">
+        <seg>Майстерня слюсара "З життя злодія"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8118,6 +8366,38 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>К 'Лопнувшей струне'</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224310Z" creationid="Anton" creationdate="20221117T224310Z">
+        <seg>До корчми "Зірвана струна"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К Вардхалу</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223001Z" creationid="Anton" creationdate="20221117T223001Z">
+        <seg>До Вардхалу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К Волчьему логову</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223118Z" creationid="Anton" creationdate="20221117T223118Z">
+        <seg>До Вовчого Лігва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К Гильдии торговцев</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223503Z" creationid="Anton" creationdate="20221117T223503Z">
+        <seg>До торгового посту Гільдії купців</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>К Гильдии торговцев.</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221025T113050Z" creationid="Gleban" creationdate="20221025T113050Z">
@@ -8126,10 +8406,58 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>К Королевскому руднику</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223101Z" creationid="Anton" creationdate="20221117T223101Z">
+        <seg>До Королівської Шахти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>К Королевскому руднику.</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221025T103453Z" creationid="Gleban" creationdate="20221025T103453Z">
         <seg>До Королівських копалень.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К Побережью шныгов</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223314Z" creationid="Anton" creationdate="20221117T223314Z">
+        <seg>До берега Луркерів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К Сокровенным тайнам</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224111Z" creationid="Anton" creationdate="20221117T224111Z">
+        <seg>До "Темних секретів"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К Туманным болотам</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223045Z" creationid="Anton" creationdate="20221117T223045Z">
+        <seg>До Туманних Боліт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К Убежищу моряка</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T222820Z" creationid="Anton" creationdate="20221117T222820Z">
+        <seg>До Притулку Моряка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К Янтарному побережью</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T222904Z" creationid="Anton" creationdate="20221117T222904Z">
+        <seg>До Бурштинового Узбережжя</seg>
       </tuv>
     </tu>
     <tu>
@@ -8146,6 +8474,126 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221025T113101Z" creationid="Gleban" creationdate="20221025T113101Z">
         <seg>До бані.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К верфи</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223818Z" creationid="Anton" creationdate="20221117T223818Z">
+        <seg>На верф</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К виноградникам</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T222513Z" creationid="Anton" creationdate="20221117T222513Z">
+        <seg>До виноградників</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К винограднику Валерио</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T222919Z" creationid="Anton" creationdate="20221117T222919Z">
+        <seg>До виноградника Валеріо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К винограднику Риты</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223238Z" creationid="Anton" creationdate="20221117T223238Z">
+        <seg>До виноградника Ріти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К восточной части порта</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223718Z" creationid="Anton" creationdate="20221117T223718Z">
+        <seg>До східної частини порту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К восточным воротам</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223351Z" creationid="Anton" creationdate="20221117T223323Z">
+        <seg>До східних воріт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К восточным городским воротам</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T222914Z" creationid="Anton" creationdate="20221117T222914Z">
+        <seg>До східних міських воріт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К городским казармам</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223603Z" creationid="Anton" creationdate="20221117T223603Z">
+        <seg>До міських казарм</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К городской конторе писаря</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224241Z" creationid="Anton" creationdate="20221117T224241Z">
+        <seg>До канцелярії міського діловода</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К деревне Зильбах</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T222944Z" creationid="Anton" creationdate="20221117T222944Z">
+        <seg>До села Сільбах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К западной части порта</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223740Z" creationid="Anton" creationdate="20221117T223725Z">
+        <seg>До західної частини порту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К западным воротам</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223348Z" creationid="Anton" creationdate="20221117T223318Z">
+        <seg>До західних воріт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К западным городским воротам</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T222955Z" creationid="Anton" creationdate="20221117T222955Z">
+        <seg>До західних міських воріт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К лагерю лесорубов</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223125Z" creationid="Anton" creationdate="20221117T223125Z">
+        <seg>До табору лісорубів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К лагерю углежогов</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223232Z" creationid="Anton" creationdate="20221117T223132Z">
+        <seg>До табору вугільників</seg>
       </tuv>
     </tu>
     <tu>
@@ -8174,10 +8622,58 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>К монастырю магов Воды</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223023Z" creationid="Anton" creationdate="20221117T223023Z">
+        <seg>До монастиря магів води</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К пасеке</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T222441Z" creationid="Anton" creationdate="20221117T222441Z">
+        <seg>До пасіки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К ратуше</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224208Z" creationid="Anton" creationdate="20221117T224208Z">
+        <seg>До Ратуші</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К руднику Гильдии торговцев</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223013Z" creationid="Anton" creationdate="20221117T223013Z">
+        <seg>До копальні Гільдії купців</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>К руднику Гильдии торговцев.</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221025T110802Z" creationid="Gleban" creationdate="20221025T110802Z">
         <seg>Копальні Гільдії торговців.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К рыночной площади</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224207Z" creationid="Anton" creationdate="20221117T224207Z">
+        <seg>До ринкової площі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К сигнальной башне</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223244Z" creationid="Anton" creationdate="20221117T223244Z">
+        <seg>До сигнальної вежі</seg>
       </tuv>
     </tu>
     <tu>
@@ -8206,10 +8702,42 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>К таверне 'Плач сирены'</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224033Z" creationid="Anton" creationdate="20221117T224033Z">
+        <seg>До корчми "Спів сирени"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К храму Аданоса</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223752Z" creationid="Anton" creationdate="20221117T223752Z">
+        <seg>До храму Аданоса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К церкви Инноса</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223529Z" creationid="Anton" creationdate="20221117T223529Z">
+        <seg>До храму Інноса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>К чёрту!</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221025T081356Z" creationid="OmegaT Aligner" creationdate="20221025T081356Z">
         <seg>До біса!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>К южному болоту</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223317Z" creationid="Anton" creationdate="20221117T223317Z">
+        <seg>До південного болота</seg>
       </tuv>
     </tu>
     <tu>
@@ -8378,6 +8906,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
         <seg>Кальян</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Канализация</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T174919Z" creationid="Anton" creationdate="20221117T174919Z">
+        <seg>Каналізація.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8998,6 +9534,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Кузнец</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T222407Z" creationid="Anton" creationdate="20221117T222407Z">
+        <seg>Коваль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Кузнечное дело</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
@@ -9102,6 +9646,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Кухня Уриха – Столовая</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T180738Z" creationid="Anton" creationdate="20221117T180653Z">
+        <seg>Їдальня "Кухня Уріха"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Кушак</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
@@ -9114,6 +9666,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T164945Z" creationid="OmegaT Aligner" creationdate="20221021T164945Z">
         <seg>Кертіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Лагуна – Баня</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T185007Z" creationid="Anton" creationdate="20221117T185007Z">
+        <seg>Лазня "Лагуна"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9218,6 +9778,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T164945Z" creationid="OmegaT Aligner" creationdate="20221021T164945Z">
         <seg>Легріф</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Леди Альдона, леди Зильбаха</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224854Z" creationid="Anton" creationdate="20221117T224854Z">
+        <seg>Леді Альдона, леді Сільбаха</seg>
       </tuv>
     </tu>
     <tu>
@@ -9790,6 +10358,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Мастерская лучника</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T222413Z" creationid="Anton" creationdate="20221117T222413Z">
+        <seg>Майстерня лучника</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Масштаб.</seg>
       </tuv>
       <tuv lang="uk" changeid="Admin" changedate="20221018T143216Z" creationid="Admin" creationdate="20221018T143216Z">
@@ -9818,6 +10394,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221021T165225Z" creationid="Gleban" creationdate="20221021T165225Z">
         <seg>Матей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Мебель была перенесена в дом!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T180057Z" creationid="Anton" creationdate="20221117T180057Z">
+        <seg>Меблі були перенесені до будинку!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10414,6 +10998,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Мясник</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T222358Z" creationid="Anton" creationdate="20221117T222358Z">
+        <seg>М'ясник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Мёртвый бритвозуб</seg>
       </tuv>
       <tuv lang="uk" changeid="Anton" changedate="20221027T161935Z" creationid="Anton" creationdate="20221027T161935Z">
@@ -10534,10 +11126,26 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>На рыбный рынок</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T223837Z" creationid="Anton" creationdate="20221117T223837Z">
+        <seg>На рибний ринок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>На уважаемого и влиятельного гражданина сэра Волкера, было совершено нападение во время прогулки по городу!</seg>
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221025T121024Z" creationid="romas" creationdate="20221025T121024Z">
         <seg>На шановного та впливового громадянина сера Волкера було скоєно напад під час прогулянки містом!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>На ферму Бермара</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T222543Z" creationid="Anton" creationdate="20221117T222543Z">
+        <seg>До ферми Бермара</seg>
       </tuv>
     </tu>
     <tu>
@@ -11022,10 +11630,26 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Недостаточно маны...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T180019Z" creationid="Anton" creationdate="20221117T180019Z">
+        <seg>Недостатньо мани...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Недостаточно очков обучения!</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221027T182005Z" creationid="Gleban" creationdate="20221023T083821Z">
         <seg>Недостатньо очків навчання!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Неизвестный</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224914Z" creationid="Anton" creationdate="20221117T224914Z">
+        <seg>Невідомий</seg>
       </tuv>
     </tu>
     <tu>
@@ -11298,6 +11922,14 @@
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221025T124706Z" creationid="romas" creationdate="20221025T124706Z">
         <seg>Але що робити, якщо охорона – це не ваше?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Новая запись:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T175208Z" creationid="Anton" creationdate="20221117T175208Z">
+        <seg>Новий запис: </seg>
       </tuv>
     </tu>
     <tu>
@@ -11646,6 +12278,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Одиссея – Картограф</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T191911Z" creationid="Anton" creationdate="20221117T191911Z">
+        <seg>"Одіссея" - Картограф</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Однако мы можем заверить вас, что причин для паники нет, все жители острова были заранее вывезены с острова.</seg>
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221025T120603Z" creationid="romas" creationdate="20221025T120603Z">
@@ -11822,6 +12462,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Опасность!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224823Z" creationid="Anton" creationdate="20221117T224823Z">
+        <seg>НЕБЕЗПЕКА!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Опрокинуть книгу</seg>
       </tuv>
       <tuv lang="uk" changeid="Anton" changedate="20221027T160708Z" creationid="Anton" creationdate="20221027T160708Z">
@@ -11890,6 +12538,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221021T171833Z" creationid="Gleban" creationdate="20221021T171833Z">
         <seg>Оскар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Осколок мира – Лавка алхимика</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T180906Z" creationid="Anton" creationdate="20221117T180906Z">
+        <seg>Лавка алхіміка "Уламок світу"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12334,6 +12990,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Пекарня</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T222346Z" creationid="Anton" creationdate="20221117T222346Z">
+        <seg>Пекарня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Перевернуть лодку</seg>
       </tuv>
       <tuv lang="uk" changeid="Anton" changedate="20221024T160855Z" creationid="Anton" creationdate="20221024T160855Z">
@@ -12702,6 +13366,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Полярная звезда – Мастерская астролога</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T185529Z" creationid="Anton" creationdate="20221117T185529Z">
+        <seg>Майстерня астролога "Полярна зоря"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Помогает при сбоях.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
@@ -12810,6 +13482,14 @@
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221023T142630Z" creationid="romas" creationdate="20221023T142630Z">
         <seg>Після смерті тобі все одно не знадобиться золото...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Последний бой – Мастерская кузнеца</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T192254Z" creationid="Anton" creationdate="20221117T192254Z">
+        <seg>Майстерня коваля "Останнє зіткнення"</seg>
       </tuv>
     </tu>
     <tu>
@@ -13374,6 +14054,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Происшествие на море – Верфь</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T192134Z" creationid="Anton" creationdate="20221117T192134Z">
+        <seg>Верф "Подія на морі"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Проклятое болото.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221019T085336Z" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
@@ -13490,6 +14178,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221025T081356Z" creationid="OmegaT Aligner" creationdate="20221025T081356Z">
         <seg>Нехай це буде тобі уроком!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Путешественник – Лавка разностей</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T192533Z" creationid="Anton" creationdate="20221117T192533Z">
+        <seg>Магазин різноманітностей "Мандрівник"</seg>
       </tuv>
     </tu>
     <tu>
@@ -14430,6 +15126,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Рудник</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T174632Z" creationid="Anton" creationdate="20221117T174632Z">
+        <seg>Копальня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Рудный клинок 'Убийца драконов'</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221023T082728Z" creationid="Gleban" creationdate="20221023T082728Z">
@@ -14530,6 +15234,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221022T195824Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
         <seg>З обладунком вартового +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>С иголочки – Портной</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T181252Z" creationid="Anton" creationdate="20221117T181252Z">
+        <seg>Швейна майстерня "Вищий гатунок"</seg>
       </tuv>
     </tu>
     <tu>
@@ -14774,6 +15486,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Свойства</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221111T162324Z" creationid="Anton" creationdate="20221111T162324Z">
+        <seg>Властивості</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Связывающие корни</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221022T192324Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
@@ -14826,6 +15546,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T164945Z" creationid="OmegaT Aligner" creationdate="20221021T164945Z">
         <seg>Северін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Северные ворота</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224737Z" creationid="Anton" creationdate="20221117T224737Z">
+        <seg>Північні ворота</seg>
       </tuv>
     </tu>
     <tu>
@@ -14954,6 +15682,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
         <seg>Сильне зцілення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Сир Уильям, лорд Зильбаха</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224841Z" creationid="Anton" creationdate="20221117T224841Z">
+        <seg>Сер Вільям, лорд Сільбаха</seg>
       </tuv>
     </tu>
     <tu>
@@ -15446,6 +16182,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Сокровенные тайны – Бордель</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T192102Z" creationid="Anton" creationdate="20221117T192102Z">
+        <seg>Дім розпусти "Темні секрети"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Сол</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221021T172119Z" creationid="OmegaT Aligner" creationdate="20221021T164945Z">
@@ -15838,6 +16582,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Таверна 'Плач сирены', Сокровенные тайны</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224157Z" creationid="Anton" creationdate="20221117T224157Z">
+        <seg>Корчма "Спів сирени", "Темні секрети"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Так давайте же идти и распространять Его волю, и пусть Аданос ведёт нас.</seg>
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221025T113233Z" creationid="romas" creationdate="20221025T113233Z">
@@ -16082,6 +16834,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
         <seg>Тіни від хмар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Тени прошлого – Музей</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T184905Z" creationid="Anton" creationdate="20221117T184905Z">
+        <seg>Музей "Тіні минулого"</seg>
       </tuv>
     </tu>
     <tu>
@@ -16346,6 +17106,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221022T200225Z" creationid="Gleban" creationdate="20221022T200225Z">
         <seg>Потрібно сили:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Третий воин – Мастерская кузнеца</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T182651Z" creationid="Anton" creationdate="20221117T182037Z">
+        <seg>Майстерня коваля "Третій воїн"</seg>
       </tuv>
     </tu>
     <tu>
@@ -17002,6 +17770,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
         <seg>У вас недостатньо золота для придбання цього предмета.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>У вас нет факела!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T173630Z" creationid="Anton" creationdate="20221117T173630Z">
+        <seg>У вас немає смолоскипа!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17798,6 +18574,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Хендрик</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224900Z" creationid="Anton" creationdate="20221117T224900Z">
+        <seg>Хендрік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Хенк</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221021T171431Z" creationid="Gleban" creationdate="20221021T171431Z">
@@ -18002,6 +18786,14 @@
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221025T114146Z" creationid="romas" creationdate="20221025T114146Z">
         <seg>Церква Інноса – це найвища інстанція земного закону, і саме до неї слід ставитись з повагою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Час расплаты – Ломбард</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T181809Z" creationid="Anton" creationdate="20221117T181809Z">
+        <seg>Ломбард "Час розплати"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18686,6 +19478,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Южные ворота</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T224751Z" creationid="Anton" creationdate="20221117T224751Z">
+        <seg>Південні ворота</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Юникорн</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T164945Z" creationid="OmegaT Aligner" creationdate="20221021T164945Z">
@@ -18722,6 +19522,14 @@
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221023T143623Z" creationid="romas" creationdate="20221023T143623Z">
         <seg>Я міський вартовий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Я готов к бою!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Anton" changedate="20221117T175616Z" creationid="Anton" creationdate="20221117T175616Z">
+        <seg>Я готовий до бою!</seg>
       </tuv>
     </tu>
     <tu>
