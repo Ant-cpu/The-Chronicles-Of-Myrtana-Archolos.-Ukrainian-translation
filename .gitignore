@@ -3,7 +3,7 @@
 ArcholosOmegaT/*.*
 ArcholosOmegaT/dictionary/
 ArcholosOmegaT/omegat/
-ArcholosOmegaT/source/
+# ArcholosOmegaT/source/
 ArcholosOmegaT/target/
 ArcholosOmegaT/tm/
 ArcholosOmegaT/tm/auto/
