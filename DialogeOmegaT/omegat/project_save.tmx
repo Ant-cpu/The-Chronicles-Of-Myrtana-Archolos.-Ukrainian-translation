@@ -6,10 +6,66 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="pl">
+        <seg>(Biegnij za Dennisem)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T174241Z" creationid="Микола Сонячний" creationdate="20230111T174241Z">
+        <seg>(Бігти за Деннісом)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>(Nic nie rób)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T174252Z" creationid="Микола Сонячний" creationdate="20230111T174252Z">
+        <seg>(Нічого не робити)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>(Powstrzymaj Dennisa)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T174245Z" creationid="Микола Сонячний" creationdate="20230111T174245Z">
+        <seg>(Зупинити Денніса)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>(Szybka podróż z Dennisem)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T174233Z" creationid="Микола Сонячний" creationdate="20230111T174233Z">
+        <seg>(Швидка подорож з Деннісом)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...chyba to on.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T164226Z" creationid="Микола Сонячний" creationdate="20230111T164226Z">
+        <seg>...здається, це він.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>A co ty tutaj robisz?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T170623Z" creationid="Микола Сонячний" creationdate="20230111T170623Z">
+        <seg>А що ти тут робиш?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>A jesteś uzdrowicielem?</seg>
       </tuv>
       <tuv lang="uk" changeid="Микола Сонячний" changedate="20230109T162633Z" creationid="Микола Сонячний" creationdate="20230109T162633Z">
         <seg>А ти – цілитель?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>A więc razem to zaplanowaliście! Już ja się z wami policzę!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T173014Z" creationid="Микола Сонячний" creationdate="20230111T173014Z">
+        <seg>Тож ви разом це спланували! Ви за це заплатите!</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Chwila!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T164729Z" creationid="Микола Сонячний" creationdate="20230111T164254Z">
+        <seg>Стривай!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Co jeśli Holdwig się nie ocknie?</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20230110T163114Z" creationid="Микола Сонячний" creationdate="20230109T161912Z">
@@ -498,6 +562,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
         <seg>Корум</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Coś już umiesz, ale jeszcze trochę pracy przed tobą.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T173618Z" creationid="Микола Сонячний" creationdate="20230111T173618Z">
+        <seg>Щось ти вже вмієш, але попереду ще чимало роботи.</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +610,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
         <seg>Кусто</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Czy ja ci wyglądam na kogoś, kto... Chociaż, w sumie... jak sypniesz złotem, to mogę cię uczyć.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T173247Z" creationid="Микола Сонячний" creationdate="20230111T173247Z">
+        <seg>Чи я схожий на... Хоча, якщо подумати... якщо грошенят не пошкодуєш, я тебе вчитиму.</seg>
       </tuv>
     </tu>
     <tu>
@@ -624,8 +704,8 @@
       <tuv lang="pl">
         <seg>Dennis</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Денис</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T170353Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Денніс</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,6 +762,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
         <seg>Дісмас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Dobrze, już dobrze. I tak musimy się tego paskudztwa pozbyć.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T165541Z" creationid="Микола Сонячний" creationdate="20230111T171852Z">
+        <seg>Ну гаразд, все. Нам слід позбутися цієї гидоти.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1134,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Giń! Śmieciu!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T164324Z" creationid="Микола Сонячний" creationdate="20230111T164718Z">
+        <seg>Здохни, покидьку!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Gonzalo</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
@@ -1210,6 +1306,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
         <seg>Гумберт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Głupcze, przez ciebie włóczęga uciekł!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T164729Z" creationid="Микола Сонячний" creationdate="20230111T164729Z">
+        <seg>Дурню, через тебе волоцюга втік!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1334,10 +1438,34 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Hola, hola, nie ma przejścia dalej.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T165032Z" creationid="Микола Сонячний" creationdate="20230111T165241Z">
+        <seg>Гей-гей, проходу нема.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Holdwig</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
         <seg>Гольдвіг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Holdwig ma się już lepiej. Medyk mówił, że zwyczajnie zatruł się jakimś paskudztwem. Nie było żadnego otrucia.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T165708Z" creationid="Микола Сонячний" creationdate="20230111T172050Z">
+        <seg>Гольдвіґові вже краще. Лікар сказав, що він просто отруївся якоюсь гидотою. Ніхто його не труїв.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Holdwig prawie ducha wyzionął, a ty podkradasz nam wino?!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T170804Z" creationid="Микола Сонячний" creationdate="20230111T170804Z">
+        <seg>Гольдвіґ ледь не сконав, а ти у нас вино крадеш?!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1362,6 +1490,30 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
         <seg>Хакслі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>I dobrze.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T164352Z" creationid="Микола Сонячний" creationdate="20230111T164734Z">
+        <seg>Ну й добре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>I ja ci mam w to uwierzyć? Po pierwsze, Gumbert zawsze znajdzie dobrą wymówkę, żeby się napić, a po drugie...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T171310Z" creationid="Микола Сонячний" creationdate="20230111T171256Z">
+        <seg>Гадаєш, я в це повірю? По-перше, Гумберт завжди знайде привід, аби напитися, а по-друге...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>I stwierdziłeś geniuszu, że to na pewno wino...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T171227Z" creationid="Микола Сонячний" creationdate="20230111T171227Z">
+        <seg>І ти, генію, вирішив, що це безсумнівно було вино...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1422,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Ja cię nauczę manier!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T170820Z" creationid="Микола Сонячний" creationdate="20230111T170820Z">
+        <seg>Я навчу тебе манер!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Javad</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
@@ -1430,10 +1590,26 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Jednak martwię się o panicza. Nie wygląda dobrze. Chciałbym mu jakoś pomóc, ale nie wiem jak.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T164442Z" creationid="Микола Сонячний" creationdate="20230111T165042Z">
+        <seg>Все ж, я хвилююся за панича. Він виглядає недобре. Я б хотів якось допомогти, та не знаю як.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Jednego śmiecia mniej!</seg>
       </tuv>
       <tuv lang="uk" changeid="Микола Сонячний" changedate="20230109T173511Z" creationid="Микола Сонячний" creationdate="20230109T173511Z">
         <seg>Одним покидьком менше!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jedyną osobą, która ma motyw i byłaby do czegoś takiego zdolna, to brat Holdwiga, Andreas.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T165006Z" creationid="Микола Сонячний" creationdate="20230111T165006Z">
+        <seg>Єдиний, хто мав мотив, і здатний на таке, – це брат Гольдвіґа, Андреас.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1450,6 +1626,22 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
         <seg>Єнс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jesteś pewien, że to ten człowiek, o którym mówił Gumbert?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T163943Z" creationid="Микола Сонячний" creationdate="20230111T164214Z">
+        <seg>Ти впевнений, що це той, про кого казав Гумберт?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jeśli Holdwig rzeczywiście to pił, to nic dziwnego, że się zatruł.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T171617Z" creationid="Микола Сонячний" creationdate="20230111T171617Z">
+        <seg>Якщо Гольдвіґ справді це пив, то й не дивно, що він отруївся.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1958,6 +2150,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Mam wątpliwości, czy Andreas będzie dobrze rządził winnicą, ale kto wie, może się zaskoczę.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T174125Z" creationid="Микола Сонячний" creationdate="20230111T174125Z">
+        <seg>Я маю сумніви щодо того, чи вдасться Андреасові добре керувати виноградником, та хтозна, може він мене ще здивує.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Marco</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
@@ -1986,6 +2186,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20230110T160928Z" creationid="Gleban" creationdate="20230110T160928Z">
         <seg>Марвін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Masz rację.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T164341Z" creationid="Микола Сонячний" creationdate="20230111T164341Z">
+        <seg>Маєш рацію.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2062,6 +2270,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Mogę z nim pomówić?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T172101Z" creationid="Микола Сонячний" creationdate="20230111T172101Z">
+        <seg>Можна мені з ним поговорити?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Moritz</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
@@ -2102,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Może uda nam się coś od niego wyciągnąć?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T164335Z" creationid="Микола Сонячний" creationdate="20230111T164335Z">
+        <seg>Може нам вдасться щось із нього витягнути?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Mures</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
@@ -2130,6 +2354,22 @@
       </tuv>
       <tuv lang="uk" changeid="Микола Сонячний" changedate="20230109T154252Z" creationid="Микола Сонячний" creationdate="20230109T154252Z">
         <seg>Мій дядько, Курт, прислав мене по гроші за виконану роботу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Mówiłem ci, że to mi zaszkodziło, a ty mnie oskarżasz o pijaństwo...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T165244Z" creationid="Микола Сонячний" creationdate="20230111T171824Z">
+        <seg>Я ж казав тобі, мені від цього було зле, а ти звинувачуєш мене у пияцтві...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Mówiłeś, że wiesz, kto mógł być zleceniodawcą otrucia. Kogo miałeś na myśli?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T164853Z" creationid="Микола Сонячний" creationdate="20230111T164853Z">
+        <seg>Ти казав, що знаєш, хто може бути замовником замаху. Про кого йшлося?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2206,6 +2446,22 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nie chwaląc się, potrafię przyłożyć, a kiedyś ćwiczyłem walkę długą bronią, i coś pewnie jeszcze pamiętam.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T173525Z" creationid="Микола Сонячний" creationdate="20230111T173525Z">
+        <seg>Їй-бо, битися я вмію. А колись я ще вчився битися довгою зброєю, і, гадаю, щось-там ще пам'ятаю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie gadaj, tylko spróbuj...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T171436Z" creationid="Микола Сонячний" creationdate="20230111T171436Z">
+        <seg>Годі базікати. Лише спробуй-но...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nie wiem, kto osobiście go otruł, ale podejrzewam, kto jest zleceniodawcą.</seg>
       </tuv>
       <tuv lang="uk" changeid="Микола Сонячний" changedate="20230109T173021Z" creationid="Микола Сонячний" creationdate="20230109T172918Z">
@@ -2226,6 +2482,14 @@
       </tuv>
       <tuv lang="uk" changeid="Микола Сонячний" changedate="20230109T162638Z" creationid="Микола Сонячний" creationdate="20230109T162638Z">
         <seg>Ні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nieźle sobie radzisz. Mógłbyś mnie czegoś nauczyć?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T173142Z" creationid="Микола Сонячний" creationdate="20230111T173142Z">
+        <seg>У тебе непогано виходить. Ти б міг мене чогось навчити?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2286,6 +2550,22 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Odkąd Andreas i Holdwig zaczęli ze sobą współpracować, atmosfera stała się niezwykle przyjemna. Czasami nawet zapominam, że ciągle trwa wojna!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T170326Z" creationid="Микола Сонячний" creationdate="20230111T174222Z">
+        <seg>Відколи Андреас і Гольдвіґ почали співпрацювати одне з одним, атмосфера тут значно покращилася. Часом я навіть забуваю, що досі триває війна!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Odkąd Holdwig znowu stanął na nogi, sprawy zaczęły wychodzić na prostą. Co prawda ciągle zmagamy się z jednym problemem... ale jakoś damy radę.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T173947Z" creationid="Микола Сонячний" creationdate="20230111T173947Z">
+        <seg>Відколи Гольдвіґ став на ноги, справи пішли набагато краще. Щоправда, ми все ще намагаємося вирішити певну проблему... та якось впораємося.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Oktav</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
@@ -2314,6 +2594,22 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
         <seg>Осіп</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ostrzegam cię, jeszcze jeden krok, a pożałujesz.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T165300Z" creationid="Микола Сонячний" creationdate="20230111T165300Z">
+        <seg>Попереджаю, ще один крок, і ти пошкодуєш.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ostrzegałem cię.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T165304Z" creationid="Микола Сонячний" creationdate="20230111T165304Z">
+        <seg>Я попереджав.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2366,6 +2662,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Pamiętaj o zapłacie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T173543Z" creationid="Микола Сонячний" creationdate="20230111T173543Z">
+        <seg>Не забудь про платню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Paola</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
@@ -2414,6 +2718,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Pfuuuuu! Skwaśniało.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T171552Z" creationid="Микола Сонячний" creationdate="20230111T171552Z">
+        <seg>Фееееее! Скисло.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Pies</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
@@ -2430,10 +2742,42 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Poczekaj chwilę, pójdę po Gumberta.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T170617Z" creationid="Микола Сонячний" creationdate="20230111T170617Z">
+        <seg>Зачекай хвильку, я піду по Гумберта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Podejrzewam, że Holdwig mógł być otruty, ale nie mam dowodów.</seg>
       </tuv>
       <tuv lang="uk" changeid="Микола Сонячний" changedate="20230109T163508Z" creationid="Микола Сонячний" creationdate="20230109T163508Z">
         <seg>Підозрюю, що Гольдвіґа могли отруїти, та не маю доказів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Podobno na winnicy kręcił się jakiś nieznajomy. Gumbert zobaczył go pewnego dnia przy wózku z prowiantem, a ten natychmiast uciekł.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T170548Z" creationid="Микола Сонячний" creationdate="20230111T170548Z">
+        <seg>Кажуть, виноградником бродив якийсь незнайомець. Гумберт одного дня побачив його біля возу з провіантом, а той одразу ж втік.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Podobno na winnicy kręcił się jakiś nieznajomy...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T165849Z" creationid="Микола Сонячний" creationdate="20230111T165849Z">
+        <seg>Кажуть, виноградником бродив якийсь незнайомець...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Podobno udał się w stronę drogi przy wodospadzie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T165741Z" creationid="Микола Сонячний" creationdate="20230111T172215Z">
+        <seg>Кажуть, він попрямував в бік дороги, що йде біля водоспаду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2466,6 +2810,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20230110T164225Z" creationid="Микола Сонячний" creationdate="20230109T163447Z">
         <seg>Про що саме розпитати?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Póki Holdwig nie wyzdrowieje, póty nie będę marnował czasu na czcze pogaduszki.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T173833Z" creationid="Микола Сонячний" creationdate="20230111T173833Z">
+        <seg>Доки Гольдвіґ не одужає, я не марнуватиму часу на порожні балачки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2522,6 +2874,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
         <seg>Раско</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Razem z Gumbertem szukaliśmy, co mogło zaszkodzić Holdwigowi i...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T171103Z" creationid="Микола Сонячний" creationdate="20230111T171103Z">
+        <seg>Ми разом з Гумбертом намагалися з'ясувати, що могло заподіяти шкоду Гольдвіґові i...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2822,6 +3182,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Skasuję gnojka!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T165816Z" creationid="Микола Сонячний" creationdate="20230111T172254Z">
+        <seg>Порішу сволоту!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Slager</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
@@ -2846,10 +3214,34 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Spokojnie! Zaczekaj!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T164743Z" creationid="Микола Сонячний" creationdate="20230111T170827Z">
+        <seg>Спокійно! Зачекай!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Spokojnie, rozważam tylko taką okoliczność. Przykro mi, że twój pan jest niedysponowany, ale mój wuj czeka na swoje złoto.</seg>
       </tuv>
       <tuv lang="uk" changeid="Микола Сонячний" changedate="20230109T162513Z" creationid="Микола Сонячний" creationdate="20230109T162513Z">
         <seg>Розслабся, я лише обмірковую такий розвиток подій. Мені прикро, що твій господар нездужає, та мій дядько чекає на своє золото.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Spokojnie, znam tego człowieka!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T172430Z" creationid="Микола Сонячний" creationdate="20230111T172430Z">
+        <seg>Спокійно, я знаю цю людину!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Spróbuj!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T171532Z" creationid="Микола Сонячний" creationdate="20230111T171458Z">
+        <seg>Спробуй!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2894,6 +3286,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Szkoda, że musiało do tego dojść, ale przynajmniej teraz Holdwig będzie mógł w spokoju rządzić swoją własnością.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T174048Z" creationid="Микола Сонячний" creationdate="20230111T174048Z">
+        <seg>Мені прикро, що до цього дійшло. Але принаймні тепер Гольдвіґ зможе спокійно керувати своїм майном.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Tak myślałem.</seg>
       </tuv>
       <tuv lang="uk" changeid="Микола Сонячний" changedate="20230109T162644Z" creationid="Микола Сонячний" creationdate="20230109T162644Z">
@@ -2914,6 +3314,14 @@
       </tuv>
       <tuv lang="uk" changeid="Микола Сонячний" changedate="20230109T164306Z" creationid="Микола Сонячний" creationdate="20230109T164214Z">
         <seg>Так, він у себе. Він досі втомлений, тож не затягуй.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Tak, jest w swoim gabinecie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T172136Z" creationid="Микола Сонячний" creationdate="20230111T172136Z">
+        <seg>Так, він у своєму кабінеті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3014,6 +3422,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>To za mało, przynieś więcej.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T173738Z" creationid="Микола Сонячний" creationdate="20230111T173738Z">
+        <seg>Цього замало. Принеси більше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Tohar</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
@@ -3064,8 +3480,16 @@
       <tuv lang="pl">
         <seg>Ty jesteś z zewnątrz, ludzie mogą być wokół ciebie mniej ostrożni. Gdybyś się czegoś dowiedział, daj mi znać.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230109T163820Z" creationid="Микола Сонячний" creationdate="20230109T163820Z">
-        <seg>Ти нетутешній, тож люди біля тебе можуть бути менш пильними. Довідаєшся щось – повідом мене.</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T163502Z" creationid="Микола Сонячний" creationdate="20230109T163820Z">
+        <seg>Ти нетутешній, тож люди до тебе можуть бути менш пильними. Довідаєшся щось – повідом мене.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ucz mnie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T173529Z" creationid="Микола Сонячний" creationdate="20230111T173529Z">
+        <seg>Вчи мене.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3182,6 +3606,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>W międzyczasie, kiedy tak sobie tu smacznie spałeś, był tu medyk.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T171917Z" creationid="Микола Сонячний" creationdate="20230111T171917Z">
+        <seg>Тим часом, поки ти собі солодко спав, приходив лікар.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Walter</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
@@ -3210,6 +3642,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
         <seg>Вінстан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wstawiasz się za zbrodniarzem?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T164324Z" creationid="Микола Сонячний" creationdate="20230111T164324Z">
+        <seg>Заступаєшся за злочинця?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3254,6 +3694,22 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Yyyy...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T164220Z" creationid="Микола Сонячний" creationdate="20230111T164220Z">
+        <seg>Ееее...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Za tyle nie będę zmieniał swojego powołania.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T173808Z" creationid="Микола Сонячний" creationdate="20230111T173808Z">
+        <seg>За таку суму я не стану відволікатися від свого покликання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Zachary</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
@@ -3270,10 +3726,34 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Zdaje się, że nie nauczę cię niczego więcej.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T170108Z" creationid="Микола Сонячний" creationdate="20230111T173723Z">
+        <seg>Гадаю, мені більше нічого тебе навчити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Zobaczmy, co tutaj ma...</seg>
       </tuv>
       <tuv lang="uk" changeid="Микола Сонячний" changedate="20230109T173529Z" creationid="Микола Сонячний" creationdate="20230109T173529Z">
         <seg>Погляньмо, що у нього тут є...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Świetnie, nawet nie wiemy, czy zabiliśmy właściwą osobę.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T164250Z" creationid="Микола Сонячний" creationdate="20230111T164250Z">
+        <seg>Чудово, ми навіть не знаємо, чи вбили того, кого було слід.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Żebym i ja się pochorował? Zwariowałeś?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T171454Z" creationid="Микола Сонячний" creationdate="20230111T171454Z">
+        <seg>Хочеш, щоб і я зліг? Ти з глузду з'їхав?</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
