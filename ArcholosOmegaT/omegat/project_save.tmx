@@ -4678,6 +4678,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Большая эссенция маны</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T154956Z" creationid="Gleban" creationdate="20230112T154511Z">
+        <seg>Покращена есенція мани</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Больше ни шагу.</seg>
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221023T143721Z" creationid="romas" creationdate="20221023T143721Z">
@@ -4746,6 +4754,22 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221129T183424Z" creationid="Gleban" creationdate="20221023T083009Z">
         <seg>Стародавній клинок 'Вбивця древніх бестій'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Большой экстракт маны</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T154940Z" creationid="Gleban" creationdate="20230112T154709Z">
+        <seg>Покращений екстракт мани</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Большой эликсир маны</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T154933Z" creationid="Gleban" creationdate="20230112T154831Z">
+        <seg>Покращений еліксир мани</seg>
       </tuv>
     </tu>
     <tu>
@@ -5960,8 +5984,8 @@
       <tuv lang="ru-RU">
         <seg>Восстановление маны:</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221022T202225Z" creationid="Gleban" creationdate="20221022T202225Z">
-        <seg>Відновлення  мани:</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T154756Z" creationid="Gleban" creationdate="20221022T202225Z">
+        <seg>Відновлення мани:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18272,8 +18296,8 @@
       <tuv lang="ru-RU">
         <seg>Расход маны:</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Витрата мани:</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T154746Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Затрати мани:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23798,6 +23822,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Чистая мана</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T154926Z" creationid="Gleban" creationdate="20230112T154926Z">
+        <seg>Чиста мана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Что делать, если охрана имущества или караульная служба – не ваше призвание?</seg>
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221025T123545Z" creationid="romas" creationdate="20221025T123545Z">
@@ -24478,6 +24510,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Экстракт маны</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T154652Z" creationid="Gleban" creationdate="20230112T154652Z">
+        <seg>Екстракт мани</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Элиас</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T164945Z" creationid="OmegaT Aligner" creationdate="20221021T164945Z">
@@ -24494,26 +24534,42 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Эликсир магического потенциала</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T153932Z" creationid="Gleban" creationdate="20230112T153932Z">
+        <seg>Еліксир магічного потенціалу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Эликсир маны</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T154728Z" creationid="Gleban" creationdate="20230112T154728Z">
+        <seg>Еліксир мани</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Эликсир превращения H</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221204T161123Z" creationid="Gleban" creationdate="20221204T161123Z">
-        <seg>Эліксир перетворення H</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T153953Z" creationid="Gleban" creationdate="20221204T161123Z">
+        <seg>Еліксир перетворення H</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Эликсир превращения L</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221204T161114Z" creationid="Gleban" creationdate="20221204T161114Z">
-        <seg>Эліксир перетворення L</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T153942Z" creationid="Gleban" creationdate="20221204T161114Z">
+        <seg>Еліксир перетворення L</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Эликсир превращения M</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221204T161121Z" creationid="Gleban" creationdate="20221204T161121Z">
-        <seg>Эліксир перетворення M</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T153939Z" creationid="Gleban" creationdate="20221204T161121Z">
+        <seg>Еліксир перетворення M</seg>
       </tuv>
     </tu>
     <tu>
@@ -24586,6 +24642,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T164945Z" creationid="OmegaT Aligner" creationdate="20221021T164945Z">
         <seg>Ернесто</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Эссенция маны</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T154458Z" creationid="Gleban" creationdate="20230112T154458Z">
+        <seg>Есенція мани</seg>
       </tuv>
     </tu>
     <tu>
@@ -25824,8 +25888,8 @@
       <tuv lang="ru-RU">
         <seg>расход маны:</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>витрата мани:</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230112T154741Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>затрати мани:</seg>
       </tuv>
     </tu>
     <tu>

@@ -2,29 +2,23 @@
 *.bak
 ArcholosOmegaT/*.*
 ArcholosOmegaT/dictionary/
-ArcholosOmegaT/omegat/
+# ArcholosOmegaT/omegat/
+ArcholosOmegaT/omegat/*.tmx
+ArcholosOmegaT/omegat/*.bak
+ArcholosOmegaT/omegat/*.txt
 # ArcholosOmegaT/source/
 ArcholosOmegaT/target/
 ArcholosOmegaT/tm/
 ArcholosOmegaT/tm/auto/
 
-DialogeOmegaT/*.*
-DialogeOmegaT/dictionary/
-DialogeOmegaT/omegat/
-# DialogeOmegaT/source/
-DialogeOmegaT/target/
-DialogeOmegaT/tm/
-DialogeOmegaT/tm/auto/
+DialogeOmegaT/
 
 # don't work with omegat.project
 ArcholosOmegaT/omegat.project
-DialogeOmegaT/omegat.project
 last_entry.properties
 project_stats.txt
-project_save.tmx.*.bak
 
 !ArcholosOmegaT/glossary/
-!DialogeOmegaT/glossary/
 !glossary.txt
 !project_save.tmx
 !filters.xml
