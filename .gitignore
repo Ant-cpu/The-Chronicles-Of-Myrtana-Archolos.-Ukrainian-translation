@@ -1,0 +1,24 @@
+ArcholosOmegaT/*.*
+ArcholosOmegaT/dictionary/
+# ArcholosOmegaT/omegat/
+ArcholosOmegaT/omegat/*.tmx
+ArcholosOmegaT/omegat/*.bak
+ArcholosOmegaT/omegat/*.txt
+# ArcholosOmegaT/source/
+ArcholosOmegaT/target/
+# ArcholosOmegaT/tm/
+ArcholosOmegaT/tm/auto/
+
+DialogeOmegaT/
+
+# don't work with omegat.project
+ArcholosOmegaT/omegat.project
+last_entry.properties
+project_stats.txt
+desktop.ini
+
+!ArcholosOmegaT/glossary/
+!glossary.txt
+!project_save.tmx
+!filters.xml
+!segmentation.conf
