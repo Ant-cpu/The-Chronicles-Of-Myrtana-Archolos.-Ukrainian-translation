@@ -9238,6 +9238,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Золото...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230113T150832Z" creationid="Gleban" creationdate="20230113T150832Z">
+        <seg>Золото</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Золото:</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
@@ -11778,6 +11786,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221025T081356Z" creationid="OmegaT Aligner" creationdate="20221025T081356Z">
         <seg>Хто ти?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Кто это тут у нас?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230113T150751Z" creationid="Gleban" creationdate="20230113T150751Z">
+        <seg>А це що?</seg>
       </tuv>
     </tu>
     <tu>
@@ -22602,6 +22618,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221025T081356Z" creationid="OmegaT Aligner" creationdate="20221025T081356Z">
         <seg>У цього невдахи навіть золота немає.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>УВАЖАЕМЫЕ ЖИТЕЛИ АРХОЛОСА!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230113T150757Z" creationid="Gleban" creationdate="20230113T150757Z">
+        <seg>Шановні жителі Архолосу!</seg>
       </tuv>
     </tu>
     <tu>
