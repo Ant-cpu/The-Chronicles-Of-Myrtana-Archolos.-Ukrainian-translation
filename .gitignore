@@ -12,7 +12,7 @@ ArcholosOmegaT/tm/auto/
 DialogeOmegaT/
 
 # don't work with omegat.project
-ArcholosOmegaT/omegat.project
+# ArcholosOmegaT/omegat.project
 last_entry.properties
 project_stats.txt
 desktop.ini
