@@ -1128,8 +1128,8 @@
       <tuv lang="ru-RU">
         <seg>(Предложить косячок)</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221019T085336Z" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
-        <seg>(Запропонувати траву)</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230116T115627Z" creationid="OmegaT Aligner" creationdate="20221019T085336Z">
+        <seg>(Запропонувати самокрутку)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4448,8 +4448,8 @@
       <tuv lang="ru-RU">
         <seg>Беспутные жители города Архолос...</seg>
       </tuv>
-      <tuv lang="uk" changeid="romas" changedate="20221025T124147Z" creationid="romas" creationdate="20221025T124147Z">
-        <seg>Безпутні жителі міста Архолос...</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230116T114506Z" creationid="romas" creationdate="20221025T124147Z">
+        <seg>Бездумні мешканці Архолосу...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9264,8 +9264,8 @@
       <tuv lang="ru-RU">
         <seg>Золото...</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230113T150832Z" creationid="Gleban" creationdate="20230113T150832Z">
-        <seg>Золото</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230116T113401Z" creationid="Gleban" creationdate="20230116T113401Z">
+        <seg>Золото...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11440,8 +11440,8 @@
       <tuv lang="ru-RU">
         <seg>Королевство Миртана объединилось благодаря стараниям Короля Робара II.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Admin" changedate="20221014T174336Z" creationid="Admin" creationdate="20221014T174336Z">
-        <seg>Королівство Міртани об'єдналося завдяки старанням Короля Робара II.</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230116T113343Z" creationid="Admin" creationdate="20221014T174336Z">
+        <seg>Королівство Міртана об'єдналося завдяки старанням Короля Робара II.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22648,8 +22648,8 @@
       <tuv lang="ru-RU">
         <seg>УВАЖАЕМЫЕ ЖИТЕЛИ АРХОЛОСА!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230113T150757Z" creationid="Gleban" creationdate="20230113T150757Z">
-        <seg>Шановні жителі Архолосу!</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230116T114634Z" creationid="Gleban" creationdate="20230116T113603Z">
+        <seg>ШАНОВНІ ЖИТЕЛІ АРХОЛОСУ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -22712,8 +22712,8 @@
       <tuv lang="ru-RU">
         <seg>Уважаемые отчаявшиеся и погрязшие в нищете...</seg>
       </tuv>
-      <tuv lang="uk" changeid="romas" changedate="20221025T124132Z" creationid="romas" creationdate="20221025T124132Z">
-        <seg>Шановні зневірені й погрязлі в злиднях...</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230116T113959Z" creationid="romas" creationdate="20221025T124132Z">
+        <seg>Дорогі зневірені і бідні...</seg>
       </tuv>
     </tu>
     <tu>
