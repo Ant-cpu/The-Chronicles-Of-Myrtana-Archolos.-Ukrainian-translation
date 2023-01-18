@@ -6158,6 +6158,22 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Восполняет 10% маны каждые 2 сек.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T164338Z" creationid="Gleban" creationdate="20230118T164338Z">
+        <seg>Відновлює 10% мани кожні 2 секунди.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Восполняет 5% здоровья каждые 2 сек.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T164345Z" creationid="Gleban" creationdate="20230118T164325Z">
+        <seg>Відновлює 5% здоров'я кожні 2 секунди.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Восстанавливает настройки управления по умолчанию.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
@@ -6174,9 +6190,113 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Восстановление здоровья: 20%</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T164747Z" creationid="Gleban" creationdate="20230118T164747Z">
+        <seg>Відновлення здоров'я: 20%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Восстановление здоровья: 30%</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T164750Z" creationid="Gleban" creationdate="20230118T164750Z">
+        <seg>Відновлення здоров'я: 30%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Восстановление здоровья: 45%</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T164753Z" creationid="Gleban" creationdate="20230118T164753Z">
+        <seg>Відновлення здоров'я: 45%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Восстановление здоровья: 55%</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T164757Z" creationid="Gleban" creationdate="20230118T164757Z">
+        <seg>Відновлення здоров'я: 55%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Восстановление здоровья: 75%</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T164806Z" creationid="Gleban" creationdate="20230118T164806Z">
+        <seg>Відновлення здоров'я: 75%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Восстановление здоровья: 80%</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T164810Z" creationid="Gleban" creationdate="20230118T164810Z">
+        <seg>Відновлення здоров'я: 80%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Восстановление маны:</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20230112T154756Z" creationid="Gleban" creationdate="20221022T202225Z">
+        <seg>Відновлення мани:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Восстановление маны: 25%</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T164722Z" creationid="Gleban" creationdate="20230118T164722Z">
+        <seg>Відновлення мани: 25%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Восстановление маны: 30%</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T164726Z" creationid="Gleban" creationdate="20230118T164726Z">
+        <seg>Відновлення мани: 30%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Восстановление маны: 50%</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T164728Z" creationid="Gleban" creationdate="20230118T164728Z">
+        <seg>Відновлення мани: 50%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Восстановление маны: 55%</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T164732Z" creationid="Gleban" creationdate="20230118T164732Z">
+        <seg>Відновлення мани: 55%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Восстановление маны: 75%</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T164738Z" creationid="Gleban" creationdate="20230118T164738Z">
+        <seg>Відновлення мани: 75%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Восстановление маны: 80%</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T164741Z" creationid="Gleban" creationdate="20230118T164741Z">
+        <seg>Відновлення мани: 80%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Восстановление очков маны:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T163726Z" creationid="Gleban" creationdate="20230118T163726Z">
         <seg>Відновлення мани:</seg>
       </tuv>
     </tu>
@@ -6322,6 +6442,46 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221021T174146Z" creationid="Gleban" creationdate="20221021T174146Z">
         <seg>Вразка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Временно увеличивает ваше здоровье.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T163840Z" creationid="Gleban" creationdate="20230118T163840Z">
+        <seg>Тимчасово збільшує ваше здоров'я.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Временно увеличивает вашу защиту.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T163925Z" creationid="Gleban" creationdate="20230118T163925Z">
+        <seg>Тимчасово збільшує ваш захист.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Временно увеличивает вашу ловкость.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T163909Z" creationid="Gleban" creationdate="20230118T163909Z">
+        <seg>Тимчасово збільшує вашу спритність.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Временно увеличивает вашу ману.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T163855Z" creationid="Gleban" creationdate="20230118T163855Z">
+        <seg>Тимчасово збільшує вашу ману.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Временно увеличивает вашу силу.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T163904Z" creationid="Gleban" creationdate="20230118T163904Z">
+        <seg>Тимчасово збільшує вашу силу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6480,8 +6640,8 @@
       <tuv lang="ru-RU">
         <seg>Вы не можете сейчас погасить факел!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Anton" changedate="20221117T173526Z" creationid="Anton" creationdate="20221117T173526Z">
-        <seg>Ви не можете загасити смолоскип зараз!</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T162506Z" creationid="Anton" creationdate="20221117T173526Z">
+        <seg>Ви не можете погасити смолоскип зараз!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6512,8 +6672,8 @@
       <tuv lang="ru-RU">
         <seg>Вы поймали 1 рыбу!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Anton" changedate="20221024T151623Z" creationid="Anton" creationdate="20221024T151623Z">
-        <seg>Ви зловили одну рибу!</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T162535Z" creationid="Anton" creationdate="20221024T151623Z">
+        <seg>Ви спіймали одну рибину!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6528,8 +6688,8 @@
       <tuv lang="ru-RU">
         <seg>Вы поймали 2 рыбы!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Anton" changedate="20221024T151651Z" creationid="Anton" creationdate="20221024T151651Z">
-        <seg>Ви впіймали 2 рибини!</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T162538Z" creationid="Anton" creationdate="20221024T151651Z">
+        <seg>Ви спіймали 2 рибини!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6544,8 +6704,8 @@
       <tuv lang="ru-RU">
         <seg>Вы поймали большую рыбу!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Anton" changedate="20221024T151656Z" creationid="Anton" creationdate="20221024T151656Z">
-        <seg>Ви зловили велику рибу!</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T162544Z" creationid="Anton" creationdate="20221024T151656Z">
+        <seg>Ви спіймали велику рибину!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6648,8 +6808,8 @@
       <tuv lang="ru-RU">
         <seg>Вы чувствуете слабость и растерянность.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Anton" changedate="20221024T153524Z" creationid="Anton" creationdate="20221024T153524Z">
-        <seg>Ви відчуваєте себе ослабленим і дезорієнтованим.</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T162923Z" creationid="Anton" creationdate="20221024T153524Z">
+        <seg>Ви відчуваєте себе ослабленим і розгубленим.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7830,6 +7990,22 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Даёт возможность дышать под водой.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T164012Z" creationid="Gleban" creationdate="20230118T164012Z">
+        <seg>Забезпечує дихання під водою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Даёт защиту от падений с высоты.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T164434Z" creationid="Gleban" creationdate="20230118T164434Z">
+        <seg>Забезпечує захист від падіння з висоти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Дверь</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
@@ -8240,8 +8416,8 @@
       <tuv lang="ru-RU">
         <seg>Добыт 1 серебряный самородок!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Anton" changedate="20221024T153020Z" creationid="Anton" creationdate="20221024T153020Z">
-        <seg>Здобуто 1 срібний самородок!</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T162636Z" creationid="Anton" creationdate="20221024T153020Z">
+        <seg>Видобуто 1 срібний самородок!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9390,6 +9566,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Зелье должно усилить способности того, кто его выпьет.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T164550Z" creationid="Gleban" creationdate="20230118T164550Z">
+        <seg>Зілля має посилити здібності того, хто його вип'є.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Зелье каменной кожи</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20230117T121905Z" creationid="Gleban" creationdate="20230117T121905Z">
@@ -10048,8 +10232,8 @@
       <tuv lang="ru-RU">
         <seg>Изучено: Кузнечное дело</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221023T093751Z" creationid="Gleban" creationdate="20221023T093751Z">
-        <seg>Вивчено: Ковальська справа</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T163207Z" creationid="Gleban" creationdate="20221023T093751Z">
+        <seg>Вивчено: Ковальство</seg>
       </tuv>
     </tu>
     <tu>
@@ -10184,24 +10368,24 @@
       <tuv lang="ru-RU">
         <seg>Изучено: создание луков, мастер</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221023T095617Z" creationid="Gleban" creationdate="20221023T095617Z">
-        <seg>Вивчено: створення луків, майстер</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T163501Z" creationid="Gleban" creationdate="20221023T095617Z">
+        <seg>Вивчено: виготовлення луків, майстер</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Изучено: создание луков, новичок</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221023T095718Z" creationid="Gleban" creationdate="20221023T095418Z">
-        <seg>Вивчено: створення луків, початківець</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T163440Z" creationid="Gleban" creationdate="20221023T095418Z">
+        <seg>Вивчено: виготовлення луків, початківець</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Изучено: создание луков, ученик</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221023T095511Z" creationid="Gleban" creationdate="20221023T095511Z">
-        <seg>Вивчено: створення луків, досвідчений</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T163444Z" creationid="Gleban" creationdate="20221023T095511Z">
+        <seg>Вивчено: виготовлення луків, досвідчений</seg>
       </tuv>
     </tu>
     <tu>
@@ -10320,8 +10504,8 @@
       <tuv lang="ru-RU">
         <seg>Ингредиенты</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230110T170802Z" creationid="Anton" creationdate="20221111T154730Z">
-        <seg>Інгредієнти</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T162459Z" creationid="Anton" creationdate="20221111T154730Z">
+        <seg>Складники</seg>
       </tuv>
     </tu>
     <tu>
@@ -12200,8 +12384,8 @@
       <tuv lang="ru-RU">
         <seg>Кузнечное дело</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Ковальська справа</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T163221Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Ковальство</seg>
       </tuv>
     </tu>
     <tu>
@@ -12272,32 +12456,32 @@
       <tuv lang="ru-RU">
         <seg>Куски железной руды разлетаются в стороны...</seg>
       </tuv>
-      <tuv lang="uk" changeid="Anton" changedate="20221024T153201Z" creationid="Anton" creationdate="20221024T153201Z">
-        <seg>Шматки заліза розлітаються в сторони...</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T162654Z" creationid="Anton" creationdate="20221024T153201Z">
+        <seg>Шматки заліза розлітаються навколо...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Куски золотой руды разлетаются в стороны...</seg>
       </tuv>
-      <tuv lang="uk" changeid="Anton" changedate="20221024T152837Z" creationid="Anton" creationdate="20221024T152837Z">
-        <seg>Шматки золотої руди розлітаються навколо.</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T162608Z" creationid="Anton" creationdate="20221024T152837Z">
+        <seg>Шматки золота розлітаються навколо...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Куски магической руды разлетаются в стороны...</seg>
       </tuv>
-      <tuv lang="uk" changeid="Anton" changedate="20221024T153228Z" creationid="Anton" creationdate="20221024T153228Z">
-        <seg>Шматки магічної руди розлітаються навколо.</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T162702Z" creationid="Anton" creationdate="20221024T153228Z">
+        <seg>Шматки магічної руди розлітаються навколо...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Куски серебряной руды разлетаются в стороны...</seg>
       </tuv>
-      <tuv lang="uk" changeid="Anton" changedate="20221024T153016Z" creationid="Anton" creationdate="20221024T153016Z">
-        <seg>Шматки срібної руди розлітаються навколо.</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T162627Z" creationid="Anton" creationdate="20221024T153016Z">
+        <seg>Шматки срібла розлітаються навколо...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14522,6 +14706,22 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20230117T124013Z" creationid="Gleban" creationdate="20230117T124013Z">
         <seg>'Пиріг' з гною</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Навсегда даёт +1 к каждому виду защиты.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T164230Z" creationid="Gleban" creationdate="20230118T164230Z">
+        <seg>Назавжди дає +1 до усіх видів захисту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Навсегда даёт +3 к защите от оружия</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T164059Z" creationid="Gleban" creationdate="20230118T164059Z">
+        <seg>Назавжди дає +3 захисту від зброї</seg>
       </tuv>
     </tu>
     <tu>
@@ -17354,6 +17554,22 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221202T103103Z" creationid="Gleban" creationdate="20221202T103103Z">
         <seg>Повзун-трутень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Полностью восстанавливает здоровье.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T164957Z" creationid="Gleban" creationdate="20230118T164957Z">
+        <seg>Повністю відновлює здоров'я.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Полностью восстанавливает ману.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T165008Z" creationid="Gleban" creationdate="20230118T165008Z">
+        <seg>Повністю відновлює ману.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21144,8 +21360,8 @@
       <tuv lang="ru-RU">
         <seg>Создание луков</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221021T184230Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
-        <seg>Створення луків</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T163430Z" creationid="OmegaT Aligner" creationdate="20221021T184230Z">
+        <seg>Виготовлення луків</seg>
       </tuv>
     </tu>
     <tu>
@@ -22408,24 +22624,24 @@
       <tuv lang="ru-RU">
         <seg>Требуется навык алхимии:</seg>
       </tuv>
-      <tuv lang="uk" changeid="Anton" changedate="20221024T154414Z" creationid="Anton" creationdate="20221024T154414Z">
-        <seg>Потрібна навичка алхімії:</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T163152Z" creationid="Anton" creationdate="20221024T154414Z">
+        <seg>Необхідна навичка Алхімія:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Требуется навык изготовления луков:</seg>
       </tuv>
-      <tuv lang="uk" changeid="Anton" changedate="20221024T154344Z" creationid="Anton" creationdate="20221024T154344Z">
-        <seg>Потрібна навичка виготовлення луків:</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T163132Z" creationid="Anton" creationdate="20221024T154344Z">
+        <seg>Необхідна навичка Виготовлення луків:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ru-RU">
         <seg>Требуется навык кузнечного дела:</seg>
       </tuv>
-      <tuv lang="uk" changeid="Anton" changedate="20221024T154241Z" creationid="Anton" creationdate="20221024T154241Z">
-        <seg>Потрібне ковальство:</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T163118Z" creationid="Anton" creationdate="20221024T154241Z">
+        <seg>Необхідна навичка Ковальство:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23522,6 +23738,14 @@
       </tuv>
       <tuv lang="uk" changeid="Anton" changedate="20221024T155526Z" creationid="Anton" creationdate="20221024T155526Z">
         <seg>Повалене дерево</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Употребляйте в меру!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T164708Z" creationid="Gleban" creationdate="20230118T164708Z">
+        <seg>Споживайте в міру!</seg>
       </tuv>
     </tu>
     <tu>
@@ -26362,6 +26586,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20221023T084128Z" creationid="Gleban" creationdate="20221023T083818Z">
         <seg>золотих</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>и +1 к сопротивлению магии и огню.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230118T164126Z" creationid="Gleban" creationdate="20230118T164126Z">
+        <seg>і +1 захисту від магії і вогню.</seg>
       </tuv>
     </tu>
     <tu>
