@@ -1,0 +1,3055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="pl"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Marvin</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Марвін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Holdwig</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гольдвіг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Yezegan</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Язеган</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Trimegisto</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Трімегісто</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Tengral</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Тенграл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Custo</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Кусто</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Riordian</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ріордіан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Rierol</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ріерол</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Othekar</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Отекар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Elfeg</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ельфег</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Badulf</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Бадульф</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Notger</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Нотгер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ingolf</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Інгольф</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Kessel</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Кессель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Roderich</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Родеріх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Arwid</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Арвід</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Sall</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Салл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Sambor</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Самбор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Fabio</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Фабіо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ulryk</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ульрік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ivy</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Айві</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ramsey</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Рамзі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Odgar</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Одгар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Lennart</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Леннарт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Bradlock</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Бредлок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Javad</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Джавад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Galbo</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гальбо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Sigmun</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Сигмун</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Blake</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Блейк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Hasmeth</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гасмет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Thulsa</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Тульса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Runar</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Рунар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Adelard</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Аделард</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Caramon</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Карамон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ingor</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Інгор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Lorenzo</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Лоренцо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Dima</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Діма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Osip</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Осіп</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Matey</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Матей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Hershlik</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гершлік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ludwig</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Людвіг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Elid</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Елід</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Kuno</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Куно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Leon</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Леон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ruud</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Рууд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Groen</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гроен</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Alfred</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Альфред</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Fadha</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Фадха</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ramha</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Рамха</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ludlof</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Людлоф</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Gard</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гард</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Andreas</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Андреас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Caspar</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Каспар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Candac</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Кандак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Garos</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гарос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Docan</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Докан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ronja</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ронія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Rudi</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Руді</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Grif</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гриф</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Figaro</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Фігаро</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Otmar</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Отмар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Urych</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Уріх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Winstan</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Вінстан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Edgar</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Едгар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Lutz</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Люц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ewald</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Евальд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Kolg</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Колг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Joe</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Джо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Tomas</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Томас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Frida</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Фріда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Allan</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Аллан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Armar</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Армар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Venzel</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Венцель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ervalt</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ервальт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Arthur</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Артур</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Sigrid</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Сігрід</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Davis</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Девіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Logar</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Логар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Oktav</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Октав</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Weigar</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Вейгар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Cabi</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Кабі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Leve</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Лів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Neir</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Нейр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Terry</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Террі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Lena</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Єлена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Antonio</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Антоніо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Gonzalo</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гонзало</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Alcas</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Алькас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Guido</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гвідо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ars</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Арс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Slager</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Слагер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Corum</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Корум</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Nadine</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Надін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Luna</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Луна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Nivel</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Нівел</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Miroh</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Міро</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Gerstand</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Герстанд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Madog</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Мадог</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Sachs</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Сакс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Fureg</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Фюрег</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Gerhard</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Герхард</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ernesto</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ернесто</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Kaf</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Каф</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Jef</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Джеф</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Rof</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Роф</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Bruno</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Бруно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Miron</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Мирон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Nirka</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Нірка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Bernand</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Бернанд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Eva</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Єва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Norman</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Норман</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Volker</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Волкер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Pies</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Пес</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Tohar</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Тохар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Crisen</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Крісен</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Tespi</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Теспі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Katrina</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Катріна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Euric</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ейріх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Richard</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Річард</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Oliver</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Олівер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Grayson</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Грейсон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ilse</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ільза</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Huxlay</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Хакслі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Detlow</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Детлоу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Morris</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Морріс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Susanne</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Сюзанна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Adrien</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Едрієн</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Laurentis</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Лаврентіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Danis</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Даніс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Limak</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Лімак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Solis</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Соліс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Laudus</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Лаудус</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Kobus</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Кобус</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Duster</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Дастер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Garrus</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гаррус</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Sigund</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Сігунд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ambrosia</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Амброзія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Kathia</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Катя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Patracjan</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Патраціан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Rahela</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Рахела</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Sofia</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Софія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Vlada</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Влада</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Dr.</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Др.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Pymonte</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Паймонт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Thomas the forger</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Томас Коваль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>The Flail</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ціп</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Unicorn</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Єдиноріг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Yellow Pfeiffer</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Жовтий Cвистун</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Lutter</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Лютер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Flex</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Флекс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Nevil</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Невіл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Varin</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Варін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Helga</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Хельга</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Arnold</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Арнольд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Tom</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Том</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Mikkel</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Міккель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Prawus</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Правус</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Kaleb</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Калеб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Amir</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Амір</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Pieter</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Пітер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Anais</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Анаіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Dack</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Дак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Fulko</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Фулько</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Gamal</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гамаль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Anskar</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Анскар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Barnaba</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Барнаба</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Leonel</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Леонель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Huug</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Х'юіг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Marco</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Марко</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Culus</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Кулус</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Dorran</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Дорран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Alice</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Аліса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Borr</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Борр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ramona</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Рамона</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Recon</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Рікон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Veigo</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Вейго</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Alder</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Альдер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Beinard</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Бейнард</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Mures</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Муреш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Mia</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Мія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Nathaniel</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Натаніель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Walter</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Волтер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Alena</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Олена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Lazar</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Лазар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Mailor</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Мейлор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Remuz</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ремуз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Daniel</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Даніель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Duncan</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Дункан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Getoryk</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Геторик</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Pablo</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Пабло</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Lewko</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Левко</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Elvart</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ельварт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Malen</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Мален</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Refir</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Рефір</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Neral</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Нірал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Knut</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Кнут</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Gerd</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Герд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Elias</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Еліас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Lowell</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Лоувел</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Elco</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Елько</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Helmud</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Хельмуд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Fane</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Фейн</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Albyn</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Альбін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Kurt</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Курт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Viktor</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Віктор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Martha</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Марта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Bastian</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Бастіан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Gabrien</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Габріен</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Lokvar</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Локвар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Thorsten</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Торстен</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Stone</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Стоун</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Osvald</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Освальд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Remy</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ремі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Finja</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Фін'я</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Jens</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Єнс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Paola</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Паола</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Severin</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Северін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Rasco</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Раско</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Paulus</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Паулюс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Rik</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Рік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Otho</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Отто</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Jil</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Джил</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Uwe</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Уве</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Maik</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Майк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Harry</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гаррі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Felix</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Фелікс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Kipper</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Кіпер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Folkard</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Фолкард</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Petra</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Петра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Carden</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Карден</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Veit</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Вейт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Dismas</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Дісмас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Sunder</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Сандер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Griz</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гріз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Pete</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Піт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Edmund</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Едмунд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Herdis</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гердіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Millie</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Міллі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Nek</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Нек</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Boles</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Болес</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Rita</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Рита</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Nayla</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Найла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Rolf</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Рольф</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Klaus</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Клаус</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Johan</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Йохан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Markus</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Маркус</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Dirk</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Дірк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Nelson</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Нельсон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Gaston</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гастон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Foral</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Форал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Lucas</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Лукас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Crednar</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Креднар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Einar</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ейнар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Gron</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Грон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Arethe</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Арет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Henk</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Хенк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Baes</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Байс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Legrif</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Легріф</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Lean</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ліан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Lucy</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Люсі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Dalmon</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Далмон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Gretel</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гретель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Tonan</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Тонан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Loria</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Лорія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Devir</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Девір</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Kylid</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Кайлід</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Havard</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гавард</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Esti</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Есті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Barry</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Баррі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Rosita</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Розіта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Tara</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Тара</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Laurin</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Лорін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Coen</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Коен</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Harri</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Харрі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Racius</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Раціус</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Hierro</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гієрро</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Leonardo</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Леонардо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Gregor</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Грегор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Morty</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Морті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Cortez</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Кортес</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ivan</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Іван</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Otis</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Отіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Rodrigo</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Родріго</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Proximo</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Проксімо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Simon</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Саймон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Oscar</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Оскар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Vicente</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Вінсенте</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Thiago</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Тьяго</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Larry</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ларрі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Rębacz</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Здобувач</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Moritz</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Моріц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Fox</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Фокс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Dan</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ден</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Saul</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Сол</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Eileen</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ейлін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Berter</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Бертер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ablo</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Абло</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Amjak</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Амджак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Homer</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гомер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Dinkel</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Дінкель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Dietrich</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Дітріх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ignis</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ігнис</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Adi</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Аді</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Makot</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Макот</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Reg</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Рег</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Hargar</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Харгар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Lathi</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Латі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Feller</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Феллер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Salzer</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Зальцер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Gerke</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Герке</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Bodowin</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Бодовін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Brad</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Бред</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Saradoc</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Сарадок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Randhal</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Рендал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Darthe</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Дарт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Liman</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Лиман</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Balni</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Балні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Karin</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Карін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Zachary</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Захарій</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Harold</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гарольд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Yannick</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Янник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Sven</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Свен</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Roy</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Рой</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Joris</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Йоріс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Hod</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Год</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Kyle</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Кайл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Bermar</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Бермар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Willem</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Віллем</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Salvi</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Сальві</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Broddy</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Бродді</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Berto</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Берто</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Till</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Тілль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ergo</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ерго</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Bevin</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Бевін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Fynn</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Фінн</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Roel</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Роел</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Murk</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Мурк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Nikolt</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Нікольт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Tollek</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Толлек</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Loafs</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Лоаф</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Heisner</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гайснер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Bloodwyn</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Бладвін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Astol</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Астол</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Naars</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Наарс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Igor</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ігор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Stefan</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Стефан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Curtis</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Кертіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Zacky</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Закі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Artur</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Артур</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Fred</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Фред</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Dennis</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Денис</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Gumbert</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Гумберт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Feil</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Фейл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Retogh</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ретог</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Degory</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Дегорі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Giles</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Джайлз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Baluen</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Бейлен</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Jorn</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Йорн</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Beckett</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Беккет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ezekiel</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Єзекіїль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Flora</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Флора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Timo</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Тімо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Rupert</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Руперт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Ana</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Lea</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Лея</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Darryl</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Деріл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Maiwen</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Мейвен</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Kazeem</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Казім</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Urs</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Урс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Vrazka</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Вразка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Pat</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Пат</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Aske</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Аске</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Jon</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Йон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Havdan</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Хевден</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Bruce</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Брюс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Eniu</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Ен'ю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Lucy</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Люсі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Dawid</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Давид</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Miki</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Мікі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Sharec</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Шарець</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pl">
+        <seg>Kiep</seg>
+      </tuv>
+      <tuv xml:lang="uk" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+        <seg>Кіп</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

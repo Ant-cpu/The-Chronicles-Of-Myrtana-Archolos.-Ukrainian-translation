@@ -1,5 +1,3 @@
-*.tmx
-*.bak
 DialogeOmegaT/*.*
 DialogeOmegaT/dictionary/
 # DialogeOmegaT/omegat/
@@ -8,7 +6,7 @@ DialogeOmegaT/omegat/*.bak
 DialogeOmegaT/omegat/*.txt
 # DialogeOmegaT/source/
 DialogeOmegaT/target/
-DialogeOmegaT/tm/
+# DialogeOmegaT/tm/
 DialogeOmegaT/tm/auto/
 
 ArcholosOmegaT/
