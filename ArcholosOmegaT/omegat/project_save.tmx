@@ -10512,8 +10512,8 @@
       <tuv lang="ru-RU">
         <seg>Ингредиенты:</seg>
       </tuv>
-      <tuv lang="uk" changeid="Anton" changedate="20221024T154057Z" creationid="Anton" creationdate="20221024T154057Z">
-        <seg>Інгредієнти:</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230120T120019Z" creationid="Anton" creationdate="20221024T154057Z">
+        <seg>Складники:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15264,8 +15264,8 @@
       <tuv lang="ru-RU">
         <seg>Недостаточно ингредиентов!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221023T101222Z" creationid="Gleban" creationdate="20221023T101222Z">
-        <seg>Недостатньо інгредієнтів!</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230120T120031Z" creationid="Gleban" creationdate="20221023T101222Z">
+        <seg>Недостатньо складників!</seg>
       </tuv>
     </tu>
     <tu>
@@ -23118,6 +23118,14 @@
     </tu>
     <tu>
       <tuv lang="ru-RU">
+        <seg>Туман</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230120T115706Z" creationid="Gleban" creationdate="20230120T115706Z">
+        <seg>Туман</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
         <seg>Ты ведь не против?</seg>
       </tuv>
       <tuv lang="uk" changeid="romas" changedate="20221023T143609Z" creationid="romas" creationdate="20221023T143609Z">
@@ -26890,6 +26898,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221018T141121Z" creationid="OmegaT Aligner" creationdate="20221018T141121Z">
         <seg>тіні від хмар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>туман</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230120T115716Z" creationid="Gleban" creationdate="20230120T115716Z">
+        <seg>туман</seg>
       </tuv>
     </tu>
     <tu>
