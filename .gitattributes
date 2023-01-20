@@ -3,3 +3,4 @@
 *.txt text
 
 omegat.project text eol=lf
+*.json text eol=lf
