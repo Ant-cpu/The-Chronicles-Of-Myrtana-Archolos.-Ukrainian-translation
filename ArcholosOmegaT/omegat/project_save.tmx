@@ -4,6 +4,1630 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="paragraph" srclang="pl"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="pl">
+        <seg>...był w sztok pijany...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...він напився в лайно...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...dlaczego dowiaduję się o tym dopiero teraz...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...чому я дізнаюся про це тільки зараз...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...ja bym tego nie zrobił...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...я б так не вчинив...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...kto opowiada takie rzeczy...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...хто сказав тобі це...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...mnie i tak nikt nie pyta...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...мене й так ніхто не питає...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...mnie nie musisz o to pytać...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...не треба мене про це питати...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...mogłem ci powiedzieć wcześniej...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...я повинен був сказати тобі раніше...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...naprawdę sądzisz...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...ти дійсно гадаєш...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...nic się nie zmieni...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...вже нічого не зміниться...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...niektóre problemy same się rozwiązują...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...деякі проблеми вирішуються самі по собі...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...po prostu trzeba odczekać...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...потрібно просто зачекати...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...pouciekali jak zające, byłem zupełnie sam...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...розбіглися, як зайці, коли я був зовсім один...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...powiedziałem dokładnie to samo...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...я сказав те ж саме...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...powinien był wiedzieć lepiej...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...треба було бути розумнішим...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...przez to będzie jeszcze więcej kłopotów...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...через це буде ще більше проблем...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...tak jakby brakowało mi zmartwień...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...наче мені не вистачає проблем...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...to nie może być tak dalej...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...це не може продовжуватися вічно...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...to przecież nic nowego...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...у цьому немає нічого нового...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...to przecież oczywiste...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...це ж очевидно...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...to wszystko tylko pogłoski...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...це лише чутки...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...trzeba uważać na to, co się mówi...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...треба бути обережним з тим, що говориш...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...wiesz, mówi się o tym i o tamtym...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...знаєш, патякають про те, про се...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...wszystko jest możliwe...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...все можливо...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...właściwie może być go tylko żal...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...насправді, можна лише пошкодувати його...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...znasz już moje zdanie...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>...ти вже знаєш мою думку...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>10 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>10 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>100 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>100 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>1000 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>1000 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>150 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>150 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>20 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>20 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>200 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>200 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>250 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>250 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>30 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>30 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>300 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>300 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>350 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>350 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>40 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>40 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>400 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>400 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>450 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>450 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>50 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>50 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>500 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>500 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>550 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>550 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>60 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>60 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>600 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>600 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>650 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>650 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>70 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>70 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>700 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>700 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>750 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>750 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>80 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>80 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>800 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>800 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>850 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>850 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>90 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>90 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>900 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>900 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>950 sztuk złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>950 золотих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>A co to? Przesłuchanie jakieś? Daj mi spokój, odpoczywam.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T121216Z" creationid="Gleban" creationdate="20230122T121216Z">
+        <seg>А це що? Якийсь допит? Дай мені спокій, я відпочиваю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>A czego TY tam szukałeś, hę?!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>І що ж ТИ там шукав, га?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>A jednak cię mam!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Зараз ти в мене отримаєш!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>A jednak mi się nie wymkniesz!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>І все ж, ти від мене не втечеш!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>A niech to!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>До біса!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>A niech to! Trzeba wiać!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T115852Z" creationid="Gleban" creationdate="20230122T115852Z">
+        <seg>До біса! Треба звалювати!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>A skąd mam o tym do cholery wiedzieć?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>А мені, чорт забирай, звідки про це знати?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>A teraz zmywaj się stąd!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>А тепер змийся звідси!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>ALARM!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>ТРИВОГА!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Aaaaarhhh!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>А-а-а-ах!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Aargh</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>А-а-ах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Beznadziejna pogoda!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Мерзенна погода!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Chcesz się jeszcze raz ze mną spróbować?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Хочеш ще раз поборотися зі мною?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Cholera, chyba nas zauważył! Powinniśmy być ostrożniejsi.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T115217Z" creationid="Gleban" creationdate="20230122T115217Z">
+        <seg>Дідько, здається, він нас помітив! Нам варто було бути обережнішими.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Cholera, wystrzelają nas jak ścierwojady, musimy znaleźć inną drogę!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Прокляття, вони перестріляють нас, як падальників, ми повинні знайти інший шлях!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Chwała Innosowi!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Хвала Інносу!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ciągle ci mało?!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Тобі все мало?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Co za brutal...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>От же ж негідник...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Co za głupia bestia!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>До чого ж тупе створіння!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Co za paskudny potwór! Dobrze, że już po wszystkim.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T132127Z" creationid="Gleban" creationdate="20230122T132127Z">
+        <seg>Яке мерзенне чудовисько! Добре, що все закінчилося.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Coś ty za jeden? Nie znam cię, daj mi spokój!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T132104Z" creationid="Gleban" creationdate="20230122T132104Z">
+        <seg>Хто ти? Я тебе не знаю, дай мені спокій!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Crednar rozliczy cię z tego!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Креднар притягне тебе до відповідальності!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Czego tu szukasz? Odejdź!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T115913Z" creationid="Gleban" creationdate="20230122T115913Z">
+        <seg>Що ти тут шукаєш? Забирайся!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Czekaj tylko, bydlaku!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T115555Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Ну зажди, виродку!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Czekaj tylko, parszywy złodzieju!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Ну почекай, брудний злодюжко!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Czekaj tylko, ty parszywy złodzieju!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T115634Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Ну зажди, брудний злодію!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Cześć Marvin!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Привіт, Марвін!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Dasz sobie radę!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Ти впораєшся!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Dobra robota, jedna bestia mniej!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T115902Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Чудово – однією тварюкою менше!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Dobrze! Wykończ świnię!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T115905Z" creationid="Gleban" creationdate="20230122T115905Z">
+        <seg>Добре! Прикінчи свиню!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Dobrze, tak trzymaj!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Молодець, так тримати!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Doigrałeś się!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Догрався!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ej! Uważaj!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T115921Z" creationid="Gleban" creationdate="20230122T115921Z">
+        <seg>Ей! Обережно!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Gdyby nie te wszystkie historie o zsyłaniu do Górniczej Doliny, to nikogo by już tu nie było.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T121323Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Якби не всі ці історії про відправку в Долину Рудників, то тут вже нікого  б не було.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Giń, gnido!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Здохни, паскудо!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Goniec Marvin?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T115531Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Посланець Марвін?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Hańbisz mundur! Tylko poczekaj, aż Roderich się tobą zajmie!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T120457Z" creationid="Gleban" creationdate="20230122T120457Z">
+        <seg>Ти – ганьба міської варти! Родеріх навчить тебе гарним манерам!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Hej!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Ей!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Hej! Zaczekajcie!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T115308Z" creationid="Gleban" creationdate="20230122T115308Z">
+        <seg>Ей! Зажди!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>I co, królowa jednak może zbić gońca!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T114744Z" creationid="Gleban" creationdate="20230122T114744Z">
+        <seg>Ну що ж, очевидно, ферзь цілком може взяти слона!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>I żebym cię już nigdy więcej tam nie przyłapał!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>І щоб більше я тебе тут не бачив!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ile może potrwać zwykłe zdobycie obywatelstwa? To nie może przecież tyle trwać...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T120951Z" creationid="Gleban" creationdate="20230122T120951Z">
+        <seg>Скільки часу може зайняти просте отримання громадянства? Не може ж це тривати так довго...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Interesy z tobą to czysta przyjemność.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>З тобою приємно мати справу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jasne.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Звичайно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jedna bestia mniej!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>На одного монстра менше!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jestem zajęty, zostaw mnie w spokoju.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Я зайнятий, дай мені спокій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jeszcze zobaczymy...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Ще побачимо...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jeśli dalej będzie to szło w takim wolnym tempie, trzeba będzie pomyśleć o rozbiciu obozu...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Якщо все продовжуватиметься в такому ж повільному темпі, доведеться подумати про те, щоб розбити табір...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jeśli ktoś ma już coś wiedzieć to Borr. Ja o niczym nie słyszałem.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T123207Z" creationid="Gleban" creationdate="20230122T123207Z">
+        <seg>Якщо хтось і повинен щось знати, то це Борр. Я ні про що не чув.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Kolego, jeśli nie chcesz skończyć jak Naars, to przestań drążyć ten temat.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Друже, якщо ти не хочеш закінчити як Наарс, то припини порушувати цю тему.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Kusznik Marvin?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Арбалетник Марвін?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Lennart ma do ciebie jakąś sprawę, zgłoś się do niego.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Леннарт має до тебе справу, поговори з ним.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Lepiej zajmij się wydobyciem, Bloodwyn nie lubi czekać na swoje bryłki.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Краще займись видобуванням, Бладвін не любить чекати свої самородки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Mam ci jeszcze raz pokazać, kto tu rządzi?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Мені знову показати тобі, хто тут головний?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Mocniej!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Сильніше!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Może gdyby górnicy tyle nie narzekali, to mieliby czas na kopanie złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Можливо, якби рудокопи не жалілись так багато, у них був би час на видобування золота.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Najemnik Marvin?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Найманець Марвін?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie daj mu uciec!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Не дай йому втекти!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie jadłem nic od kilku godzin, ale boję się zwolnić miejsce w kolejce.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Я нічого не їв уже кілька годин, але боюся залишати своє місце у черзі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie mam pojęcia, dopiero co tu dotarłem.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Поняття не маю, я щойно підійшов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie mogę z tobą rozmawiać. Muszę pracować.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T132059Z" creationid="Gleban" creationdate="20230122T132059Z">
+        <seg>Мені не можна з тобою розмовляти. Мушу працювати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie pozwól na to!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Будь обережний!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie rozmawiam z takimi opryszkami jak ty!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Я не розмовляю з такими головорізами, як ти!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie widziałem go ostatnio, chyba wypłynął w morze.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Останнім часом я його не бачив, гадаю, він пішов у море.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie widzisz, że jestem zajęty? Zostaw mnie w spokoju.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T120854Z" creationid="Gleban" creationdate="20230122T120854Z">
+        <seg>Ти не бачиш, що я зайнятий? Залиш мене в спокої.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie wiem co gorsze, Araxos, Kopalnia Królewska czy Górnicza Dolina. Wszędzie traktują nas górników jak zwykłe śmieci.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T121225Z" creationid="Gleban" creationdate="20230122T121225Z">
+        <seg>Не знаю, що гірше – Араксос, Королівська копальня або Долина Рудників. Скрізь до нас, рудокопів, ставляться як до сміття.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie wiem nic o żadnym tytoniu, mam swoje sprawy na głowie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Я нічого не знаю ні про який тютюн, у мене свої турботи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Ні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Niech żyje Król!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T115511Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Хай живе король!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nieźle...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Непогано...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nieźle... Całkiem nieźle.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T120335Z" creationid="Gleban" creationdate="20230122T120335Z">
+        <seg>Непогано... Зовсім непогано.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nigdy więcej nie próbuj mnie okradać!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Навіть не намагайся більше мене обікрасти!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nigdy więcej nie próbuj się ze mną mierzyć!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Ніколи більше не зв'язуйся зі мною!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nigdy więcej tego nie rób! To NASZE owce!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T115741Z" creationid="Gleban" creationdate="20230122T115741Z">
+        <seg>Ніколи так більше не роби! Це НАШІ вівці!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>No i po co to robiłeś? Oberwiesz za to od Albyna!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T120558Z" creationid="Gleban" creationdate="20230122T120558Z">
+        <seg>Ну і навіщо ти це зробив? Отримаєш за це від Альбіна!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>No już dobrze, wygrałeś. Czego ode mnie chcesz?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T120604Z" creationid="Gleban" creationdate="20230122T120604Z">
+        <seg>Ну гаразд, ти переміг. Чого ти від мене хочеш?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>No proszę, jednak można!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T120317Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Бачиш, це було не так і важко!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>No, teraz ci się dostanie, bydlaku!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Ну, тепер ти отримаєш, виродку!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Obrzydliwy robal...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Бридка комаха...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Obywatel Marvin?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Громадянин Марвін?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ogłuchłeś? Odłóż tę broń!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T120033Z" creationid="Gleban" creationdate="20230122T120033Z">
+        <seg>Ти глухий? Опусти зброю!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Oni zrobią sobie krzywdę...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Вони ж повбивають один одного...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Pewnie, czemu nie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Звичайно, чому б ні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Po farmie kręcą się często jacyś pracownicy sezonowi albo żebracy. Może to któryś z nich miał z tym coś wspólnego?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T132331Z" creationid="Gleban" creationdate="20230122T132331Z">
+        <seg>На фермі часто вештаються сезонні робітники або жебраки. Можливо, хтось з них мав до цього відношення?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Polecam ci zgłosić się do Rasco, jestem pewien, że wykupiłby wszystko, co masz.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Рекомендую тобі звернутися до Раско, впевнений, він купить все, що ти маєш.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Pomocy!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Допоможіть!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Pomocy, niech mi ktoś pomoże!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Допоможіть, хто-небудь, допоможіть мені!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ponoć byłeś u mistrza Notgera i wyspowiadałeś się ze swych grzechów.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Судячи з чуток, ти був у майстра Нотгера і сповідав свої гріхи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Powiadają, że byłeś u Rodericha i załatwiłeś sprawę.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Кажуть, ти був у Родеріха і залагодив це питання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Powiedziałem: KONIEC z magią! Ogłuchłeś, czy co?!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T120029Z" creationid="Gleban" creationdate="20230122T120029Z">
+        <seg>Я ж сказав: БІЛЬШЕ НІЯКОЇ магії! Ти глухий чи як?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Proszę to dla ciebie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Ось! Це для тебе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Przestaniecie w końcu?!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Може, перестанеш нарешті?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Przykro mi, ale nie mam pojęcia, o kim mówisz.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Вибач, але я гадки не маю, про кого ти говориш.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Racja, praca nie ucieknie, a na odpoczynek też trzeba znaleźć czas.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Вірно, робота не вовк, у ліс не втече, а відпочивати теж треба.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Roderich cię wzywał. Zgłoś się do niego!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T120830Z" creationid="Gleban" creationdate="20230122T120830Z">
+        <seg>Тебе викликав Родеріх. Відзвітуй йому!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Roderich dowie się o twoim czynie!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Родеріх дізнається про твій вчинок!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>STRAŻ!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>ВАРТОВІ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Stary, naprawdę nic nie wiem. Większość dnia spędzam na kopaniu, nie w głowie mi zatruwać się jeszcze jakimś gównem.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T121208Z" creationid="Gleban" creationdate="20230122T121208Z">
+        <seg>Старий, мені справді нічого не відомо. Більшу частину свого дня я проводжу за видобутком руди, не в моїх інтересах травити себе ще якоюсь поганню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Strażnicy nie będą zadowoleni, jeśli będę tracił czas na gadanie!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Вартові не зрадіють, якщо я витрачатиму час на розмови!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Strażnik Marvin?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Вартовий Марвін?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Stój, śmieciu!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Стій, нікчемо!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Szermierz Marvin?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Мечник Марвін?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Szkoda gadać, ledwo jestem w stanie wydobyć tyle złota, by tu przeżyć, a co dopiero coś zarobić.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Це ганьба, я ледве можу видобути достатньо золота, щоб вижити тут, не кажучи вже про те, щоб щось заробити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Słyszałem, że byłeś u Albyna i doprowadziłeś sprawę do porządku.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Кажуть, ти бачився з Альбіном і залагодив цю справу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ta przeklęta bestia pożera nasze owce!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Ця клята тварюка пожирає наших овець!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ta przeklęta bestia zżera nasze owce!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Ця проклята тварюка жере наших овець!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Tak po prostu szlachtować nasze owce... Wynoś się!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T120344Z" creationid="Gleban" creationdate="20230122T120344Z">
+        <seg>Ось так просто різати наших овець... Забирайся!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Tak.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Так.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Takie grosze? Musisz się lepiej postarać.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T120926Z" creationid="Gleban" creationdate="20230122T120926Z">
+        <seg>Так мало? Тобі доведеться запропонувати щось краще.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ten bydlak szlachtuje nasze owce!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Ця сволота ріже наших овець!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ten frajer nie ma nawet złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>У цього невдахи навіть золота немає.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Teraz cię załatwię!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Настав твій час!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Też chcesz zdobyć obywatelstwo? Lepiej przygotuj się na kilka godzin czekania...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T120940Z" creationid="Gleban" creationdate="20230122T120940Z">
+        <seg>Ти теж хочеш отримати громадянство? Краще будь готовий зачекати кілька годин...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>To jest to, czego właśnie było mi potrzeba, wielkie dzięki.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Це саме те, що мені було потрібно, дякую!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>To już koniec, śmieciu!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T114846Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>З тобою покінчено, нікчемо!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>To nie do pomyślenia! Człowiek czeka kilka dni na papierkową robotę, a rano ten wariat barykaduje się we własnym domu!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T121032Z" creationid="Gleban" creationdate="20230122T121032Z">
+        <seg>Це немислимо! Людина кілька днів чекає паперової тяганини, а вранці цей псих барикадується у власному будинку!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>To nie jest wszystko, o co cię prosiłem.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Мені все ще потрібна твоя допомога.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>To tyle z naszego obywatelstwa. Jak spróbujemy dostać się siłą do środka, to straż nas złapie i wyśle do Górniczej Doliny. Chyba tak czy owak czeka nas taki los...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T121108Z" creationid="Gleban" creationdate="20230122T121108Z">
+        <seg>Стільки зусиль заради нашого громадянства. Якщо ми спробуємо проникнути всередину силою, вартові впіймають нас і відправлять до Долини Рудників. Мабуть, така наша доля у будь-якому випадку...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Trzeba było od razu mówić, że znasz Willema. Widziałem, jak Yannick kręcił się gdzieś w pobliżu chaty Zachary'ego.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T131835Z" creationid="Gleban" creationdate="20230122T131835Z">
+        <seg>Сказав би одразу, що знаєш Віллема. Я бачив, як Яннік тинявся десь біля хатини Захарі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Tu się nie walczy, jasne?! Niech to będzie dla ciebie nauczką!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T115848Z" creationid="Gleban" creationdate="20230122T115848Z">
+        <seg>Жодних бійок тут, ти зрозумів? Нехай це буде тобі уроком!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Twoje czyny nie zadowolą mistrza Notgera!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Твої вчинки не сподобаються майстру Нотгеру!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Tędy też się nie przebijemy. Musimy zawrócić! Marvin, za mną!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T115245Z" creationid="Gleban" creationdate="20230122T115245Z">
+        <seg>Тут нам також не пройти. Ми повинні повернутись! Марвін, за мною!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ucieka! Ruchy Marvin, musimy go złapać!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T114939Z" creationid="Gleban" creationdate="20230122T114939Z">
+        <seg>Він тікає! Давай, Марвін, ми повинні впіймати його!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Usłyszałem biegnących ludzi, a później tylko krzyki.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Я чув людей, котрі бігли, а потім тільки крики.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Uważaj!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Обережно!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>W przyszłości trzymaj łapska z dala od cudzych spraw.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Надалі тримай свої руки подалі від чужого майна!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>W takim razie będę musiał cię stąd wykopać!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>В такому разі, доведеться викинути тебе звідси!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Weź to, ale na więcej nie licz.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Тримай, але на більше не розраховувай.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wreszcie coś się dzieje...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Нарешті щось відбувається...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wróć, gdy uzbierasz więcej złota.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Повертайся, коли збереш більше золота.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wy uchodźcy jednak nie jesteście tacy bezużyteczni.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Зрештою, ви, біженці, не такі вже й безкорисні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wynocha!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Забирайся!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wynoś się!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Забирайся!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Yannick? Nigdy o nim nie słyszałem.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T131824Z" creationid="Gleban" creationdate="20230122T123216Z">
+        <seg>Яннік? Ніколи про нього не чув.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Zabieraj się z tą swoją magią!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>А ну-но, прибери свою магію!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Zajmę się twoją bronią...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Я подбаю про твою зброю...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Zajęty jestem, nie widać? Zostaw mnie...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T120916Z" creationid="Gleban" creationdate="20230122T120916Z">
+        <seg>Я зайнятий, чи не бачиш? Облиш мене...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Zamknięte drzwi, tyle mnie dzieli od nowego startu! Nie odpuszczę takiej okazji, nie odejdę stąd!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T121138Z" creationid="Gleban" creationdate="20230122T121138Z">
+        <seg>Зачинені двері – ось що відділяє мене від нового життя! Цю можливість не можна упустити, я не піду звідси!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Zasłużył sobie na to!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Він це заслужив!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Zdaje się, że Lorenzo chciał z tobą rozmawiać. Zgłoś się do niego!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T120824Z" creationid="Gleban" creationdate="20230122T120824Z">
+        <seg>Здається, Лоренцо хотів поговорити з тобою. Відзвітуй йому!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Zejdź mi z oczu, parszywy złodzieju!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Забирайся з очей моїх, брудний злодій!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Znowu jedna z tych głupich bestii!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Ще одна тупа тварюка!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Znowu jedna z tych przeklętych bestii!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Ще одна проклята тварюка!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Złodziej! Łapcie go!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T115251Z" creationid="Gleban" creationdate="20230122T115251Z">
+        <seg>Злодій! Тримайте його!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Złoto! Zaopiekuję się nim...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T115916Z" creationid="Gleban" creationdate="20230122T115916Z">
+        <seg>Золото! Я за ним пригляну...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Łowca Marvin?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Мисливець Марвін?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Łowcy świetnie się spisali.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Мисливці чудово попрацювали.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Żadne bestie nie mają tu prawa wstępu!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T115630Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Звірям тут не місце!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Żadne stwory nie mają tu prawa wstępu!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Тварюкам тут не місце!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Żegnaj, frajerze!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T115315Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Прощавай, невдахо!</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
