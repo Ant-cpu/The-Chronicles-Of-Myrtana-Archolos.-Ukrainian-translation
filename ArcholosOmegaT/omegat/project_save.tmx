@@ -3280,8 +3280,8 @@
       <tuv lang="ru-RU">
         <seg>Rychu – 'Потрогай, это же опухоль, да?'</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221202T102326Z" creationid="Gleban" creationdate="20221202T102326Z">
-        <seg>Rychu – 'Відчуваєш грудку?'</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T135014Z" creationid="Gleban" creationdate="20221202T102326Z">
+        <seg>Rychu – 'Це часом не пухлина?'</seg>
       </tuv>
     </tu>
     <tu>
@@ -4306,6 +4306,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20230110T175855Z" creationid="Gleban" creationdate="20230110T175855Z">
         <seg>Втікач</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Бегун</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T134020Z" creationid="Gleban" creationdate="20230122T134020Z">
+        <seg>Посланець</seg>
       </tuv>
     </tu>
     <tu>
@@ -17752,8 +17760,8 @@
       <tuv lang="ru-RU">
         <seg>Послание от бегуна</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20221129T184604Z" creationid="Gleban" creationdate="20221129T184604Z">
-        <seg>Повідомлення від гінця</seg>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T134206Z" creationid="Gleban" creationdate="20221129T184604Z">
+        <seg>Повідомлення від посланця</seg>
       </tuv>
     </tu>
     <tu>
@@ -21578,6 +21586,54 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20221025T081356Z" creationid="OmegaT Aligner" creationdate="20221025T081356Z">
         <seg>Старий, мені справді нічого не відомо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Старший арбалетчик</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T134056Z" creationid="Gleban" creationdate="20230122T134052Z">
+        <seg>Старший арбалетник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Старший бегун</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T134042Z" creationid="Gleban" creationdate="20230122T134042Z">
+        <seg>Старший посланець</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Старший мечник</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T134046Z" creationid="Gleban" creationdate="20230122T134046Z">
+        <seg>Старший мечник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Старший наёмник</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T134028Z" creationid="Gleban" creationdate="20230122T134028Z">
+        <seg>Старший найманець</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Старший охотник</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T134034Z" creationid="Gleban" creationdate="20230122T134034Z">
+        <seg>Старший мисливець</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Старший стражник</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gleban" changedate="20230122T134103Z" creationid="Gleban" creationdate="20230122T134103Z">
+        <seg>Старший вартовий</seg>
       </tuv>
     </tu>
     <tu>
